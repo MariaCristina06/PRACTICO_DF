@@ -1,0 +1,1201 @@
+shipment_id,origin_country,destination_country,transport_mode,product_type,ship_date,delivery_date,weight_kg,cost_usd,delay_days,status
+5000,España,México,Aéreo,Químicos,2025-01-09,2025-01-23,10228.73,5607.78,7,Retrasado
+5001,México,Chile,Terrestre,Textil,2025-11-11,2025-12-02,14441.82,11994.98,11,Retrasado
+5002,España,Chile,Aéreo,Electrónica,2025-10-12,2025-10-30,5424.14,12005.12,0,A tiempo
+5003,Brasil,México,Marítimo,Maquinaria,2025-12-03,2026-01-11,12364.34,7657.42,0,A tiempo
+5004,Alemania,Perú,Marítimo,Textil,2025-04-16,2025-05-20,15196.14,26478.24,0,A tiempo
+5005,Brasil,Perú,Terrestre,Alimentos,2025-07-06,2025-07-19,6408.09,9699.78,2,A tiempo
+5006,España,Ecuador,Aéreo,Textil,2025-09-23,2025-10-07,3235.57,4753.68,2,A tiempo
+5007,USA,Chile,Terrestre,Maquinaria,2025-08-17,2025-09-08,16041.85,14524.96,0,A tiempo
+5008,Colombia,Perú,Terrestre,Maquinaria,2025-01-05,2025-01-10,4002.79,8662.82,2,A tiempo
+5009,Brasil,Colombia,Marítimo,Químicos,2025-07-06,2025-08-02,780.99,827.54,0,A tiempo
+5010,Colombia,Colombia,Marítimo,Químicos,2025-12-25,2026-01-18,3068.03,4129.86,0,A tiempo
+5011,USA,Chile,Marítimo,Electrónica,2025-03-26,2025-04-28,14732.13,9534.08,0,A tiempo
+5012,España,Colombia,Terrestre,Electrónica,2025-06-16,2025-06-29,3028.65,5940.38,0,A tiempo
+5013,USA,Ecuador,Aéreo,Textil,2025-10-22,2025-11-28,13346.8,13846.67,9,Retrasado
+5014,China,Colombia,Terrestre,Electrónica,2025-04-08,2025-05-15,16778.35,27261.13,1,A tiempo
+5015,USA,Ecuador,Marítimo,Químicos,2025-05-29,2025-06-19,8922.01,5841.36,0,A tiempo
+5016,España,México,Marítimo,Electrónica,2025-09-10,2025-10-18,1497.19,1361.0,2,A tiempo
+5017,Perú,Colombia,Aéreo,Electrónica,2025-06-14,2025-06-30,12206.71,15766.48,12,Retrasado
+5018,USA,Colombia,Aéreo,Químicos,2025-12-15,2025-12-16,10379.77,9322.65,0,A tiempo
+5019,China,Perú,Marítimo,Electrónica,2025-11-07,2025-12-13,12883.11,26541.81,0,A tiempo
+5020,España,México,Terrestre,Alimentos,2025-04-16,2025-05-14,19472.65,29929.07,0,A tiempo
+5021,China,Chile,Terrestre,Químicos,2025-01-01,2025-01-10,19998.07,28843.61,7,Retrasado
+5022,Perú,Chile,Aéreo,Alimentos,2025-07-15,2025-07-31,16577.7,35498.22,0,A tiempo
+5023,USA,Ecuador,Marítimo,Químicos,2025-11-08,2025-12-14,11719.9,20914.21,1,A tiempo
+5024,Colombia,Colombia,Aéreo,Alimentos,2025-11-28,2025-12-30,11096.49,18323.41,3,A tiempo
+5025,España,Colombia,Marítimo,Textil,2025-02-14,2025-02-28,8815.99,14938.65,0,A tiempo
+5026,México,Colombia,Terrestre,Químicos,2025-11-22,2025-12-14,11023.98,18217.52,5,Retrasado
+5027,Alemania,Perú,Terrestre,Electrónica,2025-07-01,2025-07-17,16075.33,14908.74,10,Retrasado
+5028,China,Chile,Terrestre,Maquinaria,2025-12-24,2026-01-02,17615.97,19969.27,5,Retrasado
+5029,China,Colombia,Aéreo,Alimentos,2025-10-20,2025-11-22,4206.15,4788.43,0,A tiempo
+5030,Alemania,México,Terrestre,Químicos,2025-03-02,2025-03-15,8257.71,18204.53,5,Retrasado
+5031,USA,Chile,Aéreo,Alimentos,2025-07-12,2025-08-14,16195.18,15360.2,4,Retrasado
+5032,Perú,México,Terrestre,Textil,2025-11-18,2025-12-13,8620.64,7294.08,4,Retrasado
+5033,Colombia,México,Terrestre,Alimentos,2025-10-24,2025-10-30,1581.45,3434.05,2,A tiempo
+5034,Brasil,Ecuador,Terrestre,Textil,2025-12-20,2025-12-22,12726.49,13760.31,6,Retrasado
+5035,Alemania,Ecuador,Terrestre,Textil,2025-11-01,2025-12-08,13829.68,26443.54,2,A tiempo
+5036,Perú,Perú,Aéreo,Electrónica,2025-12-28,2026-01-04,5075.74,8421.85,2,A tiempo
+5037,Brasil,Perú,Marítimo,Alimentos,2025-07-11,2025-08-02,16550.54,32345.63,0,A tiempo
+5038,Alemania,Perú,Aéreo,Maquinaria,2025-08-06,2025-08-11,8019.44,13545.95,0,A tiempo
+5039,Perú,Ecuador,Marítimo,Químicos,2025-01-26,2025-02-24,108.74,175.91,0,A tiempo
+5040,China,Colombia,Terrestre,Textil,2025-05-24,2025-05-25,6185.87,3947.59,4,Retrasado
+5041,México,Chile,Terrestre,Electrónica,2025-04-26,2025-05-01,3026.06,2495.04,4,Retrasado
+5042,China,Chile,Terrestre,Alimentos,2025-12-01,2025-12-20,9743.19,8330.48,7,Retrasado
+5043,Perú,Ecuador,Marítimo,Maquinaria,2025-05-01,2025-05-04,15946.9,32229.22,0,A tiempo
+5044,USA,Perú,Aéreo,Textil,2025-11-20,2025-11-28,14978.82,17290.72,5,Retrasado
+5045,Colombia,Perú,Marítimo,Químicos,2025-03-29,2025-05-05,4520.31,5951.93,6,Retrasado
+5046,Alemania,Chile,Terrestre,Alimentos,2025-08-01,2025-08-08,2681.96,4842.38,6,Retrasado
+5047,Alemania,Colombia,Terrestre,Alimentos,2025-07-15,2025-08-21,1629.84,2100.77,0,A tiempo
+5048,Alemania,Colombia,Terrestre,Alimentos,2025-02-05,2025-02-28,17879.44,28741.58,2,A tiempo
+5049,España,Colombia,Marítimo,Electrónica,2025-04-26,2025-06-02,13674.55,20021.71,0,A tiempo
+5050,USA,México,Marítimo,Textil,2025-12-26,2026-01-19,12622.25,28301.91,4,Retrasado
+5051,México,Ecuador,Aéreo,Químicos,2025-08-05,2025-09-06,17791.62,35442.77,4,Retrasado
+5052,España,Chile,Terrestre,Químicos,2025-10-29,2025-10-30,18784.48,35643.96,3,A tiempo
+5053,España,México,Marítimo,Maquinaria,2025-09-20,2025-10-23,3709.12,7161.53,0,A tiempo
+5054,Colombia,Perú,Marítimo,Electrónica,2025-11-25,2025-12-25,11504.43,20437.22,3,A tiempo
+5055,Brasil,Ecuador,Terrestre,Electrónica,2025-05-06,2025-05-22,4795.14,10485.68,2,A tiempo
+5056,USA,Ecuador,Terrestre,Maquinaria,2025-03-22,2025-03-27,1178.23,1234.62,0,A tiempo
+5057,Alemania,Colombia,Marítimo,Textil,2025-01-27,2025-02-21,8649.79,10388.58,7,Retrasado
+5058,China,Perú,Terrestre,Electrónica,2025-11-04,2025-11-30,17504.05,12404.58,0,A tiempo
+5059,Colombia,México,Terrestre,Electrónica,2025-07-10,2025-08-17,1227.72,1879.88,7,Retrasado
+5060,Brasil,Chile,Terrestre,Maquinaria,2025-09-20,2025-10-02,12047.52,11885.89,0,A tiempo
+5061,México,Ecuador,Marítimo,Alimentos,2025-01-24,2025-02-24,9097.88,20064.31,0,A tiempo
+5062,China,México,Marítimo,Alimentos,2025-11-05,2025-11-22,409.98,724.25,6,Retrasado
+5063,Colombia,Colombia,Aéreo,Químicos,2025-08-01,2025-08-19,1852.59,2689.5,0,A tiempo
+5064,Brasil,Perú,Aéreo,Maquinaria,2025-02-12,2025-03-16,7404.4,5968.14,0,A tiempo
+5065,Brasil,Ecuador,Terrestre,Alimentos,2025-07-01,2025-07-28,7966.36,13594.02,3,A tiempo
+5066,Brasil,México,Terrestre,Alimentos,2025-08-06,2025-08-12,4373.17,7468.47,4,Retrasado
+5067,España,Ecuador,Marítimo,Alimentos,2025-05-05,2025-06-02,8531.68,14159.71,3,A tiempo
+5068,México,Ecuador,Aéreo,Electrónica,2025-09-17,2025-10-18,9171.59,6245.68,0,A tiempo
+5069,Brasil,Ecuador,Marítimo,Químicos,2025-08-01,2025-08-23,11798.77,23814.99,0,A tiempo
+5070,Alemania,Chile,Aéreo,Textil,2025-11-03,2025-12-01,8545.62,19493.94,6,Retrasado
+5071,Perú,Colombia,Marítimo,Maquinaria,2025-11-12,2025-12-18,8506.03,13045.71,1,A tiempo
+5072,Colombia,México,Terrestre,Textil,2025-01-23,2025-02-01,9658.44,13834.22,5,Retrasado
+5073,Colombia,Perú,Marítimo,Electrónica,2025-08-24,2025-09-01,6573.64,5411.41,0,A tiempo
+5074,México,México,Marítimo,Alimentos,2025-09-21,2025-10-25,8817.38,8929.72,7,Retrasado
+5075,Alemania,Colombia,Aéreo,Químicos,2025-02-22,2025-03-06,626.19,379.5,1,A tiempo
+5076,España,México,Marítimo,Textil,2025-11-19,2025-12-20,5223.48,3856.17,3,A tiempo
+5077,Alemania,Colombia,Marítimo,Textil,2025-11-09,2025-12-15,13060.12,22254.29,0,A tiempo
+5078,España,Ecuador,Terrestre,Electrónica,2025-02-20,2025-02-27,14743.55,7775.04,1,A tiempo
+5079,México,México,Terrestre,Alimentos,2025-11-19,2025-12-28,5723.82,11499.3,1,A tiempo
+5080,Colombia,Chile,Aéreo,Textil,2025-08-25,2025-09-02,7202.57,5558.76,9,Retrasado
+5081,Brasil,Chile,Aéreo,Textil,2025-10-15,2025-11-07,1770.49,2431.79,0,A tiempo
+5082,China,Ecuador,Marítimo,Textil,2025-10-19,2025-11-09,1235.54,1380.77,5,Retrasado
+5083,España,Perú,Terrestre,Electrónica,2025-03-01,2025-03-28,12992.38,21251.86,0,A tiempo
+5084,España,Ecuador,Aéreo,Maquinaria,2025-01-23,2025-02-05,17117.49,38790.85,0,A tiempo
+5085,Perú,Colombia,Terrestre,Alimentos,2025-08-21,2025-08-24,9778.01,18480.7,4,Retrasado
+5086,Alemania,México,Aéreo,Químicos,2025-05-04,2025-05-24,8040.51,12350.87,3,A tiempo
+5087,Perú,Chile,Terrestre,Electrónica,2025-04-06,2025-04-17,15084.4,26756.45,3,A tiempo
+5088,Colombia,Colombia,Terrestre,Electrónica,2025-02-17,2025-03-23,5860.9,14045.39,7,Retrasado
+5089,España,Ecuador,Terrestre,Textil,2025-11-10,2025-11-12,9513.61,20777.3,2,A tiempo
+5090,Perú,Chile,Marítimo,Alimentos,2025-07-28,2025-08-30,16998.4,27374.87,3,A tiempo
+5091,USA,Colombia,Aéreo,Químicos,2025-11-02,2025-11-09,9136.97,18256.34,5,Retrasado
+5092,Colombia,Ecuador,Terrestre,Alimentos,2025-07-23,2025-08-23,18205.94,22302.1,2,A tiempo
+5093,Brasil,Ecuador,Terrestre,Electrónica,2025-01-18,2025-02-15,17899.75,27954.99,0,A tiempo
+5094,México,Perú,Aéreo,Electrónica,2025-03-22,2025-04-18,273.83,682.12,12,Retrasado
+5095,Perú,Chile,Aéreo,Alimentos,2025-10-26,2025-11-12,12647.03,10647.62,6,Retrasado
+5096,USA,Colombia,Marítimo,Electrónica,2025-03-11,2025-04-07,7952.24,15040.25,8,Retrasado
+5097,Brasil,Perú,Terrestre,Maquinaria,2025-11-29,2025-12-13,14916.77,18535.76,7,Retrasado
+5098,Alemania,México,Aéreo,Textil,2025-04-27,2025-05-10,11098.94,22057.47,0,A tiempo
+5099,China,Perú,Marítimo,Alimentos,2025-06-04,2025-07-08,10918.62,10925.65,2,A tiempo
+5100,USA,Ecuador,Marítimo,Electrónica,2025-08-30,2025-09-25,2734.16,2022.41,0,A tiempo
+5101,Alemania,México,Marítimo,Alimentos,2025-10-20,2025-11-15,6183.32,3494.8,0,A tiempo
+5102,Brasil,Ecuador,Marítimo,Electrónica,2025-10-07,2025-11-01,7702.58,12592.8,0,A tiempo
+5103,USA,Colombia,Terrestre,Químicos,2025-10-25,2025-10-26,10105.0,13483.17,7,Retrasado
+5104,USA,Perú,Marítimo,Textil,2025-07-06,2025-07-26,13218.18,7179.38,0,A tiempo
+5105,Colombia,Colombia,Terrestre,Alimentos,2025-04-28,2025-05-13,9365.24,21534.08,2,A tiempo
+5106,Alemania,Perú,Aéreo,Alimentos,2025-03-20,2025-04-10,12806.04,19479.74,1,A tiempo
+5107,México,Colombia,Terrestre,Alimentos,2025-12-17,2026-01-14,15260.38,12555.53,3,A tiempo
+5108,USA,Ecuador,Marítimo,Alimentos,2025-07-29,2025-09-02,13564.44,23332.11,0,A tiempo
+5109,China,México,Aéreo,Químicos,2025-12-20,2026-01-02,820.03,1949.21,9,Retrasado
+5110,China,México,Terrestre,Electrónica,2025-06-30,2025-07-20,19453.65,37596.05,6,Retrasado
+5111,Colombia,México,Terrestre,Alimentos,2025-05-17,2025-06-06,1047.27,2236.2,3,A tiempo
+5112,USA,Ecuador,Aéreo,Maquinaria,2025-08-12,2025-08-16,5041.45,8114.7,16,Retrasado
+5113,España,Colombia,Terrestre,Alimentos,2025-12-29,2026-01-28,17664.26,38558.13,4,Retrasado
+5114,Colombia,Ecuador,Marítimo,Maquinaria,2025-11-12,2025-12-13,13654.03,7935.93,1,A tiempo
+5115,Colombia,Colombia,Aéreo,Maquinaria,2025-05-30,2025-06-03,3330.16,8050.33,0,A tiempo
+5116,Colombia,Colombia,Marítimo,Electrónica,2025-01-16,2025-02-23,18515.33,18349.93,0,A tiempo
+5117,México,Ecuador,Aéreo,Alimentos,2025-05-30,2025-06-18,14429.01,14477.02,0,A tiempo
+5118,USA,Colombia,Marítimo,Textil,2025-10-04,2025-10-17,12528.66,19879.42,0,A tiempo
+5119,Perú,México,Terrestre,Electrónica,2025-01-01,2025-01-17,11395.82,20571.99,4,Retrasado
+5120,USA,Colombia,Aéreo,Químicos,2025-10-31,2025-11-20,17151.25,11978.48,3,A tiempo
+5121,Brasil,Colombia,Terrestre,Maquinaria,2025-04-06,2025-04-14,15831.24,21361.11,14,Retrasado
+5122,Colombia,Chile,Terrestre,Alimentos,2025-05-14,2025-05-25,13477.19,23471.04,0,A tiempo
+5123,Colombia,México,Aéreo,Maquinaria,2025-12-03,2025-12-24,9241.08,16260.01,0,A tiempo
+5124,Colombia,México,Aéreo,Textil,2025-05-17,2025-06-14,8742.37,18766.29,4,Retrasado
+5125,Colombia,Perú,Aéreo,Químicos,2025-06-24,2025-07-10,6580.06,14068.06,0,A tiempo
+5126,China,Chile,Marítimo,Alimentos,2025-06-12,2025-07-21,14421.66,23152.16,2,A tiempo
+5127,España,México,Marítimo,Alimentos,2025-05-13,2025-05-16,14966.52,25198.85,0,A tiempo
+5128,España,Chile,Aéreo,Textil,2025-01-30,2025-03-02,17359.09,10675.2,4,Retrasado
+5129,USA,México,Terrestre,Maquinaria,2025-06-04,2025-07-04,2158.09,3266.61,0,A tiempo
+5130,Perú,Perú,Terrestre,Alimentos,2025-06-29,2025-07-07,2614.85,4467.07,5,Retrasado
+5131,España,Ecuador,Marítimo,Electrónica,2025-03-21,2025-04-22,2772.09,1529.05,1,A tiempo
+5132,España,Chile,Terrestre,Maquinaria,2025-10-29,2025-11-10,871.93,1384.62,2,A tiempo
+5133,Colombia,Chile,Terrestre,Electrónica,2025-06-30,2025-07-11,5141.38,5598.51,5,Retrasado
+5134,USA,Perú,Terrestre,Químicos,2025-03-29,2025-05-02,2142.0,2532.29,0,A tiempo
+5135,España,Colombia,Marítimo,Químicos,2025-02-06,2025-02-26,7368.55,8350.53,3,A tiempo
+5136,Alemania,Ecuador,Aéreo,Maquinaria,2025-07-30,2025-09-04,11321.92,20222.86,0,A tiempo
+5137,España,Chile,Marítimo,Maquinaria,2025-06-24,2025-07-29,3833.94,5878.85,0,A tiempo
+5138,Colombia,Ecuador,Aéreo,Electrónica,2025-09-19,2025-09-25,6308.63,11252.64,0,A tiempo
+5139,España,Colombia,Marítimo,Electrónica,2025-12-27,2025-12-31,8417.95,17180.27,0,A tiempo
+5140,USA,Colombia,Marítimo,Electrónica,2025-03-15,2025-04-04,12639.59,22801.4,7,Retrasado
+5141,México,Perú,Marítimo,Electrónica,2025-09-25,2025-10-26,12317.96,27243.01,4,Retrasado
+5142,España,Colombia,Terrestre,Químicos,2025-06-07,2025-06-09,19082.46,22762.55,3,A tiempo
+5143,Brasil,México,Marítimo,Textil,2025-05-25,2025-05-31,19673.66,31296.66,1,A tiempo
+5144,Colombia,Colombia,Terrestre,Químicos,2025-04-16,2025-05-25,15956.27,24805.62,0,A tiempo
+5145,Alemania,Colombia,Terrestre,Alimentos,2025-05-11,2025-06-07,7172.88,17419.59,6,Retrasado
+5146,Colombia,Chile,Marítimo,Químicos,2025-02-13,2025-03-16,18930.42,42539.16,0,A tiempo
+5147,USA,Perú,Aéreo,Químicos,2025-06-16,2025-07-24,5544.24,8347.9,0,A tiempo
+5148,Perú,México,Aéreo,Químicos,2025-08-03,2025-08-29,2217.58,4168.74,6,Retrasado
+5149,México,Ecuador,Marítimo,Químicos,2025-04-13,2025-04-20,2072.02,3347.0,0,A tiempo
+5150,China,Perú,Aéreo,Maquinaria,2025-06-15,2025-06-25,201.21,456.64,0,A tiempo
+5151,México,México,Aéreo,Químicos,2025-06-22,2025-07-04,5415.26,10284.26,0,A tiempo
+5152,China,México,Terrestre,Alimentos,2025-08-29,2025-09-07,2389.35,2935.69,1,A tiempo
+5153,México,Chile,Aéreo,Maquinaria,2025-08-01,2025-08-20,2504.01,3216.4,0,A tiempo
+5154,España,Chile,Marítimo,Maquinaria,2025-12-11,2025-12-29,18612.67,37676.53,0,A tiempo
+5155,España,México,Aéreo,Maquinaria,2025-07-12,2025-07-28,4960.98,5183.31,1,A tiempo
+5156,Perú,Ecuador,Terrestre,Alimentos,2025-08-10,2025-08-15,984.02,1650.12,2,A tiempo
+5157,Colombia,Ecuador,Terrestre,Maquinaria,2025-07-13,2025-07-24,12602.67,27117.2,0,A tiempo
+5158,China,Ecuador,Aéreo,Químicos,2025-05-06,2025-06-08,10763.77,26566.46,5,Retrasado
+5159,USA,Colombia,Terrestre,Textil,2025-03-01,2025-03-05,2782.68,5521.04,0,A tiempo
+5160,México,Perú,Terrestre,Alimentos,2025-01-06,2025-01-23,10604.24,7666.2,3,A tiempo
+5161,USA,Colombia,Marítimo,Químicos,2025-03-23,2025-04-13,8915.62,13954.72,4,Retrasado
+5162,China,México,Terrestre,Electrónica,2025-07-23,2025-08-19,9074.78,4545.64,0,A tiempo
+5163,Colombia,Ecuador,Aéreo,Maquinaria,2025-01-11,2025-01-14,2120.99,4898.78,0,A tiempo
+5164,México,Ecuador,Aéreo,Textil,2025-04-27,2025-06-02,17267.62,28171.33,0,A tiempo
+5165,USA,México,Aéreo,Electrónica,2025-01-15,2025-02-03,14208.22,27386.39,5,Retrasado
+5166,Colombia,Perú,Marítimo,Electrónica,2025-09-08,2025-10-07,17137.89,29704.26,3,A tiempo
+5167,Alemania,México,Terrestre,Electrónica,2025-07-07,2025-08-01,10454.0,11550.69,2,A tiempo
+5168,España,México,Aéreo,Electrónica,2025-11-22,2025-12-09,18864.52,11925.0,1,A tiempo
+5169,Perú,Ecuador,Marítimo,Electrónica,2025-08-18,2025-09-19,7998.4,9510.37,2,A tiempo
+5170,México,Ecuador,Terrestre,Electrónica,2025-09-14,2025-10-13,14073.67,33421.04,8,Retrasado
+5171,España,Perú,Marítimo,Electrónica,2025-11-19,2025-12-12,19953.56,23550.97,0,A tiempo
+5172,Alemania,Chile,Aéreo,Maquinaria,2025-11-24,2025-12-07,10709.58,15029.93,0,A tiempo
+5173,USA,Ecuador,Aéreo,Textil,2025-05-15,2025-06-06,549.02,1147.29,2,A tiempo
+5174,Alemania,Chile,Terrestre,Electrónica,2025-08-02,2025-08-25,1397.59,834.38,1,A tiempo
+5175,España,Ecuador,Marítimo,Electrónica,2025-05-28,2025-06-30,166.46,157.44,0,A tiempo
+5176,Alemania,Perú,Marítimo,Maquinaria,2025-07-26,2025-08-04,11188.61,25565.24,10,Retrasado
+5177,Colombia,Colombia,Terrestre,Maquinaria,2025-12-10,2026-01-05,17154.96,14913.63,7,Retrasado
+5178,Alemania,Ecuador,Aéreo,Maquinaria,2025-12-29,2026-01-17,17669.04,26504.37,0,A tiempo
+5179,Colombia,México,Terrestre,Electrónica,2025-06-22,2025-07-20,6481.95,11598.16,4,Retrasado
+5180,Perú,Perú,Terrestre,Textil,2025-01-24,2025-02-10,9259.31,5572.92,1,A tiempo
+5181,España,Chile,Terrestre,Maquinaria,2025-12-17,2026-01-02,10637.22,18071.83,0,A tiempo
+5182,China,Ecuador,Aéreo,Textil,2025-02-13,2025-02-21,4045.4,5622.23,0,A tiempo
+5183,España,Colombia,Aéreo,Maquinaria,2025-01-09,2025-01-13,11904.11,23880.17,14,Retrasado
+5184,México,Colombia,Marítimo,Alimentos,2025-09-12,2025-10-21,4975.16,3250.83,0,A tiempo
+5185,Alemania,Colombia,Terrestre,Textil,2025-11-06,2025-11-13,2808.28,3695.12,6,Retrasado
+5186,Alemania,Ecuador,Terrestre,Electrónica,2025-08-14,2025-08-28,7975.07,19727.43,0,A tiempo
+5187,Perú,Colombia,Aéreo,Maquinaria,2025-08-05,2025-08-18,12457.93,15090.01,2,A tiempo
+5188,Alemania,México,Aéreo,Alimentos,2025-04-30,2025-05-30,13588.97,21345.53,0,A tiempo
+5189,Alemania,Chile,Terrestre,Maquinaria,2025-08-17,2025-09-10,7741.41,16173.32,3,A tiempo
+5190,Perú,Chile,Aéreo,Químicos,2025-10-29,2025-11-14,10417.58,14833.56,0,A tiempo
+5191,China,México,Terrestre,Alimentos,2025-04-30,2025-06-03,9568.82,10569.28,0,A tiempo
+5192,China,Chile,Terrestre,Alimentos,2025-06-18,2025-07-15,10742.72,10512.78,3,A tiempo
+5193,USA,Colombia,Terrestre,Alimentos,2025-08-23,2025-09-23,2591.53,2247.0,13,Retrasado
+5194,China,Colombia,Terrestre,Químicos,2025-10-13,2025-10-21,14052.88,23867.99,8,Retrasado
+5195,China,México,Terrestre,Alimentos,2025-08-21,2025-08-30,14083.96,9754.35,0,A tiempo
+5196,Alemania,Perú,Aéreo,Maquinaria,2025-02-27,2025-03-16,9125.58,20749.52,7,Retrasado
+5197,Brasil,México,Terrestre,Químicos,2025-07-13,2025-07-21,11341.76,19450.98,0,A tiempo
+5198,Perú,México,Terrestre,Maquinaria,2025-06-08,2025-06-27,10881.71,9773.41,0,A tiempo
+5199,Brasil,Ecuador,Aéreo,Químicos,2025-08-24,2025-09-21,9298.15,21859.79,0,A tiempo
+5200,México,Ecuador,Terrestre,Alimentos,2025-08-24,2025-09-01,4577.7,7320.25,4,Retrasado
+5201,México,Perú,Aéreo,Químicos,2025-02-05,2025-02-25,2485.86,4892.63,0,A tiempo
+5202,China,México,Aéreo,Electrónica,2025-02-20,2025-03-14,8430.65,7751.38,5,Retrasado
+5203,España,Ecuador,Terrestre,Alimentos,2025-02-01,2025-02-17,17202.86,14136.6,4,Retrasado
+5204,España,México,Aéreo,Alimentos,2025-02-05,2025-03-07,6165.64,14177.95,7,Retrasado
+5205,USA,Perú,Marítimo,Maquinaria,2025-07-11,2025-07-21,12888.75,19543.09,2,A tiempo
+5206,España,Ecuador,Terrestre,Electrónica,2025-01-01,2025-01-20,6013.15,4189.17,1,A tiempo
+5207,España,Ecuador,Terrestre,Textil,2025-10-13,2025-11-08,5301.37,9571.2,9,Retrasado
+5208,China,Chile,Marítimo,Alimentos,2025-07-27,2025-08-07,5591.07,11784.43,3,A tiempo
+5209,Perú,Colombia,Aéreo,Alimentos,2025-09-21,2025-10-18,10109.46,22904.86,3,A tiempo
+5210,Brasil,México,Terrestre,Electrónica,2025-06-25,2025-07-09,2647.42,2039.88,0,A tiempo
+5211,Alemania,Perú,Marítimo,Textil,2025-11-27,2025-12-15,5660.13,12890.5,0,A tiempo
+5212,Alemania,México,Terrestre,Textil,2025-10-28,2025-11-01,12120.22,19331.24,4,Retrasado
+5213,USA,México,Terrestre,Alimentos,2025-07-01,2025-07-19,3036.92,2186.85,0,A tiempo
+5214,Brasil,México,Aéreo,Químicos,2025-03-31,2025-04-17,7963.76,11699.01,0,A tiempo
+5215,Colombia,Perú,Aéreo,Químicos,2025-02-16,2025-03-21,1455.76,1662.48,5,Retrasado
+5216,USA,Colombia,Terrestre,Maquinaria,2025-11-04,2025-12-10,3223.68,5355.33,0,A tiempo
+5217,Perú,México,Marítimo,Maquinaria,2025-09-05,2025-09-12,18895.52,31959.66,10,Retrasado
+5218,México,Ecuador,Marítimo,Electrónica,2025-04-07,2025-05-07,10402.84,12988.95,0,A tiempo
+5219,Alemania,Chile,Marítimo,Químicos,2025-09-23,2025-10-12,1916.91,4602.56,15,Retrasado
+5220,Colombia,Colombia,Aéreo,Maquinaria,2025-04-23,2025-05-30,4798.71,11889.8,3,A tiempo
+5221,USA,Colombia,Terrestre,Alimentos,2025-04-03,2025-04-28,16363.69,27634.83,2,A tiempo
+5222,Perú,México,Aéreo,Textil,2025-09-27,2025-10-30,315.42,264.15,2,A tiempo
+5223,USA,Perú,Marítimo,Alimentos,2025-09-27,2025-10-05,14481.96,25563.65,0,A tiempo
+5224,España,Colombia,Marítimo,Textil,2025-10-28,2025-11-20,5184.59,9959.49,10,Retrasado
+5225,China,Chile,Marítimo,Maquinaria,2025-11-07,2025-11-23,7331.14,18305.1,3,A tiempo
+5226,Perú,Chile,Terrestre,Electrónica,2025-07-19,2025-07-26,9662.54,21378.71,0,A tiempo
+5227,Perú,Perú,Terrestre,Electrónica,2025-04-05,2025-04-28,14494.7,7712.57,0,A tiempo
+5228,USA,México,Marítimo,Textil,2025-08-10,2025-08-24,18863.41,38579.98,0,A tiempo
+5229,Colombia,Chile,Marítimo,Maquinaria,2025-04-20,2025-05-29,17871.79,33253.42,5,Retrasado
+5230,USA,Ecuador,Terrestre,Textil,2025-10-17,2025-11-02,15926.54,29471.98,0,A tiempo
+5231,China,Chile,Aéreo,Alimentos,2025-02-13,2025-02-28,5073.44,4277.31,0,A tiempo
+5232,España,Colombia,Marítimo,Electrónica,2025-04-30,2025-05-30,17491.78,12268.61,0,A tiempo
+5233,Perú,México,Aéreo,Maquinaria,2025-01-14,2025-02-18,577.84,1312.75,0,A tiempo
+5234,México,Colombia,Marítimo,Alimentos,2025-06-12,2025-06-15,6941.62,15306.13,0,A tiempo
+5235,USA,Chile,Marítimo,Textil,2025-02-21,2025-04-01,17449.74,31281.0,0,A tiempo
+5236,Brasil,Perú,Aéreo,Electrónica,2025-12-22,2026-01-13,7200.93,15247.36,5,Retrasado
+5237,México,Colombia,Marítimo,Maquinaria,2025-05-10,2025-06-03,13246.7,26131.68,5,Retrasado
+5238,Brasil,Colombia,Aéreo,Alimentos,2025-10-16,2025-11-14,12655.66,9868.88,0,A tiempo
+5239,Brasil,Perú,Terrestre,Textil,2025-10-30,2025-12-07,1506.21,1876.64,2,A tiempo
+5240,España,Ecuador,Marítimo,Electrónica,2025-02-03,2025-03-06,16453.58,16749.68,0,A tiempo
+5241,México,Chile,Marítimo,Químicos,2025-09-02,2025-09-30,12084.16,8487.09,4,Retrasado
+5242,USA,Perú,Terrestre,Alimentos,2025-05-06,2025-05-22,2334.81,2308.11,4,Retrasado
+5243,Colombia,Perú,Terrestre,Químicos,2025-04-19,2025-04-21,8512.68,5783.7,0,A tiempo
+5244,Brasil,México,Terrestre,Electrónica,2025-10-03,2025-10-15,3265.41,4728.72,0,A tiempo
+5245,Colombia,Colombia,Terrestre,Electrónica,2025-04-03,2025-04-28,9697.65,5938.28,0,A tiempo
+5246,España,Chile,Marítimo,Electrónica,2025-04-24,2025-05-22,1718.59,3529.49,4,Retrasado
+5247,España,Perú,Aéreo,Alimentos,2025-10-04,2025-11-03,11962.56,27638.53,0,A tiempo
+5248,Perú,Chile,Marítimo,Electrónica,2025-05-08,2025-06-16,6155.38,3212.93,1,A tiempo
+5249,USA,Colombia,Terrestre,Maquinaria,2025-05-24,2025-06-05,11971.77,27113.04,0,A tiempo
+5250,USA,Colombia,Marítimo,Electrónica,2025-09-28,2025-11-02,19469.19,24242.35,0,A tiempo
+5251,España,Chile,Aéreo,Maquinaria,2025-02-20,2025-02-25,15184.97,23848.8,6,Retrasado
+5252,Colombia,Ecuador,Marítimo,Químicos,2025-09-10,2025-09-16,9746.68,12507.08,6,Retrasado
+5253,Colombia,Ecuador,Marítimo,Maquinaria,2025-04-28,2025-06-04,8021.23,15218.21,5,Retrasado
+5254,Brasil,México,Aéreo,Textil,2025-11-05,2025-12-14,10767.72,16418.79,0,A tiempo
+5255,Alemania,Chile,Marítimo,Electrónica,2025-08-14,2025-08-27,15134.18,28504.0,0,A tiempo
+5256,China,Colombia,Terrestre,Textil,2025-01-03,2025-01-14,11394.58,8222.81,0,A tiempo
+5257,Colombia,México,Marítimo,Maquinaria,2025-02-18,2025-03-07,18803.52,27197.14,10,Retrasado
+5258,Brasil,Perú,Aéreo,Textil,2025-10-01,2025-11-05,16499.25,30683.09,0,A tiempo
+5259,Colombia,Colombia,Terrestre,Textil,2025-03-22,2025-04-23,18765.15,17986.26,1,A tiempo
+5260,México,México,Terrestre,Alimentos,2025-01-07,2025-02-13,481.2,467.03,5,Retrasado
+5261,Brasil,Chile,Terrestre,Alimentos,2025-09-27,2025-10-06,572.06,1207.02,4,Retrasado
+5262,Brasil,Perú,Terrestre,Maquinaria,2025-09-03,2025-10-01,17556.1,21752.84,0,A tiempo
+5263,Colombia,Chile,Marítimo,Maquinaria,2025-03-23,2025-04-23,18276.91,26743.18,6,Retrasado
+5264,Perú,Chile,Terrestre,Electrónica,2025-08-17,2025-09-13,13498.78,27438.2,4,Retrasado
+5265,USA,Colombia,Marítimo,Químicos,2025-08-17,2025-08-29,2611.56,4380.81,5,Retrasado
+5266,Colombia,Ecuador,Aéreo,Maquinaria,2025-12-09,2026-01-06,397.55,612.06,4,Retrasado
+5267,USA,Perú,Marítimo,Textil,2025-02-05,2025-02-25,11810.82,10955.75,0,A tiempo
+5268,España,Colombia,Terrestre,Maquinaria,2025-03-04,2025-03-25,9699.25,14720.11,5,Retrasado
+5269,Colombia,Ecuador,Aéreo,Electrónica,2025-04-21,2025-05-28,6695.71,7673.57,1,A tiempo
+5270,Colombia,Chile,Terrestre,Textil,2025-10-07,2025-10-27,17458.51,32406.88,5,Retrasado
+5271,Colombia,Perú,Aéreo,Textil,2025-06-22,2025-07-09,6008.52,13064.0,0,A tiempo
+5272,España,Ecuador,Marítimo,Textil,2025-05-15,2025-05-31,14274.64,8334.18,3,A tiempo
+5273,México,Colombia,Marítimo,Maquinaria,2025-05-20,2025-06-16,4180.65,6936.75,1,A tiempo
+5274,Colombia,Perú,Terrestre,Maquinaria,2025-07-05,2025-07-18,5202.9,11642.4,8,Retrasado
+5275,España,México,Terrestre,Electrónica,2025-04-29,2025-05-28,6844.72,8125.46,1,A tiempo
+5276,China,Ecuador,Marítimo,Alimentos,2025-09-06,2025-09-28,7937.62,15993.1,0,A tiempo
+5277,China,México,Terrestre,Químicos,2025-01-10,2025-02-16,9404.05,14008.47,8,Retrasado
+5278,Perú,Colombia,Terrestre,Electrónica,2025-08-07,2025-08-11,12320.53,20613.08,2,A tiempo
+5279,Perú,México,Aéreo,Químicos,2025-05-12,2025-06-14,12767.28,31890.2,0,A tiempo
+5280,Alemania,Ecuador,Terrestre,Textil,2025-06-24,2025-07-19,12937.8,19695.81,0,A tiempo
+5281,Alemania,Colombia,Marítimo,Electrónica,2025-10-02,2025-10-17,3991.87,5610.18,0,A tiempo
+5282,México,Colombia,Terrestre,Alimentos,2025-01-13,2025-01-23,1929.06,2087.55,2,A tiempo
+5283,China,México,Aéreo,Maquinaria,2025-03-21,2025-04-14,18502.02,27394.16,7,Retrasado
+5284,China,Perú,Aéreo,Textil,2025-07-06,2025-07-22,17743.91,13501.24,5,Retrasado
+5285,Alemania,Perú,Terrestre,Químicos,2025-08-14,2025-09-20,18581.92,16159.37,1,A tiempo
+5286,USA,Ecuador,Aéreo,Textil,2025-03-09,2025-04-13,10538.38,21295.32,0,A tiempo
+5287,Brasil,Ecuador,Marítimo,Textil,2025-03-13,2025-03-28,16347.31,15683.17,4,Retrasado
+5288,México,Perú,Marítimo,Electrónica,2025-08-16,2025-08-27,9507.95,10556.46,0,A tiempo
+5289,USA,Perú,Marítimo,Maquinaria,2025-09-22,2025-10-13,12255.79,8933.38,0,A tiempo
+5290,México,Perú,Aéreo,Electrónica,2025-06-14,2025-06-20,16650.62,24799.71,1,A tiempo
+5291,Alemania,Ecuador,Aéreo,Maquinaria,2025-06-12,2025-06-28,17833.78,35680.31,0,A tiempo
+5292,USA,Chile,Terrestre,Electrónica,2025-05-27,2025-07-05,13413.33,25689.28,3,A tiempo
+5293,Perú,Ecuador,Terrestre,Maquinaria,2025-04-03,2025-05-07,5842.05,8676.57,0,A tiempo
+5294,Colombia,Perú,Terrestre,Alimentos,2025-12-26,2026-01-24,17235.67,14715.3,0,A tiempo
+5295,Alemania,Chile,Terrestre,Maquinaria,2025-08-17,2025-09-20,14644.08,34130.35,1,A tiempo
+5296,Brasil,Colombia,Terrestre,Alimentos,2025-05-11,2025-06-09,8822.47,19139.59,9,Retrasado
+5297,Brasil,Ecuador,Terrestre,Electrónica,2025-04-04,2025-05-07,7843.63,15886.28,0,A tiempo
+5298,Alemania,Ecuador,Aéreo,Maquinaria,2025-04-02,2025-04-06,5612.91,3427.4,0,A tiempo
+5299,Colombia,Perú,Aéreo,Alimentos,2025-04-26,2025-04-27,10065.31,13961.66,0,A tiempo
+5300,China,Chile,Terrestre,Químicos,2025-07-22,2025-08-15,255.19,457.1,3,A tiempo
+5301,Colombia,México,Terrestre,Alimentos,2025-08-01,2025-08-24,18040.58,21829.4,3,A tiempo
+5302,Perú,México,Marítimo,Alimentos,2025-08-30,2025-09-04,2558.83,3560.2,0,A tiempo
+5303,Colombia,Chile,Terrestre,Electrónica,2025-01-09,2025-02-11,5815.34,11589.1,12,Retrasado
+5304,Perú,México,Marítimo,Textil,2025-07-30,2025-08-21,18691.71,19862.35,0,A tiempo
+5305,Brasil,Colombia,Aéreo,Alimentos,2025-08-01,2025-08-23,10025.3,21318.36,3,A tiempo
+5306,México,Colombia,Terrestre,Maquinaria,2025-12-02,2026-01-07,13625.21,30075.23,1,A tiempo
+5307,USA,Ecuador,Terrestre,Electrónica,2025-03-26,2025-04-20,6152.56,4805.24,0,A tiempo
+5308,Perú,México,Terrestre,Maquinaria,2025-01-16,2025-01-31,13800.0,32557.42,3,A tiempo
+5309,México,Perú,Terrestre,Alimentos,2025-12-12,2025-12-16,8218.56,19476.94,1,A tiempo
+5310,USA,Ecuador,Terrestre,Electrónica,2025-07-25,2025-08-19,16887.34,19835.35,1,A tiempo
+5311,USA,Chile,Terrestre,Textil,2025-02-07,2025-02-21,17731.69,26679.44,0,A tiempo
+5312,Brasil,Colombia,Marítimo,Textil,2025-04-30,2025-05-18,13588.77,16910.24,7,Retrasado
+5313,Brasil,Perú,Aéreo,Maquinaria,2025-05-23,2025-06-03,18733.76,26286.92,12,Retrasado
+5314,México,Perú,Terrestre,Electrónica,2025-10-08,2025-11-08,7978.58,13779.79,0,A tiempo
+5315,Brasil,Chile,Terrestre,Maquinaria,2025-04-07,2025-04-12,16639.68,21627.76,19,Retrasado
+5316,China,Ecuador,Aéreo,Textil,2025-12-13,2025-12-28,5593.14,7347.91,0,A tiempo
+5317,México,Ecuador,Aéreo,Maquinaria,2025-07-28,2025-08-26,15956.98,12264.19,3,A tiempo
+5318,China,Ecuador,Aéreo,Químicos,2025-02-04,2025-02-05,8368.0,17717.7,3,A tiempo
+5319,USA,Chile,Aéreo,Alimentos,2025-07-05,2025-07-25,14618.3,22459.34,0,A tiempo
+5320,Colombia,Chile,Terrestre,Textil,2025-08-02,2025-08-05,14883.08,15654.8,0,A tiempo
+5321,Colombia,México,Aéreo,Químicos,2025-12-16,2026-01-13,4735.55,5251.59,5,Retrasado
+5322,Colombia,Ecuador,Aéreo,Textil,2025-11-29,2026-01-07,15798.91,9257.31,0,A tiempo
+5323,USA,Ecuador,Terrestre,Alimentos,2025-12-10,2026-01-03,6274.46,7497.76,0,A tiempo
+5324,Perú,Ecuador,Terrestre,Textil,2025-08-25,2025-09-07,9258.44,9713.89,3,A tiempo
+5325,España,Colombia,Marítimo,Textil,2025-08-23,2025-09-24,19811.02,35619.73,7,Retrasado
+5326,Colombia,Colombia,Aéreo,Electrónica,2025-09-07,2025-09-17,10020.2,11957.97,0,A tiempo
+5327,USA,Ecuador,Marítimo,Químicos,2025-01-18,2025-02-18,2249.04,2935.61,2,A tiempo
+5328,Perú,Ecuador,Marítimo,Maquinaria,2025-04-07,2025-04-08,4152.88,8458.46,0,A tiempo
+5329,Brasil,Ecuador,Aéreo,Textil,2025-04-03,2025-04-16,8344.42,17205.24,6,Retrasado
+5330,Alemania,Perú,Marítimo,Alimentos,2025-10-13,2025-11-03,11668.52,15215.8,0,A tiempo
+5331,España,Perú,Terrestre,Textil,2025-03-04,2025-03-30,13980.52,25749.82,9,Retrasado
+5332,México,Ecuador,Aéreo,Alimentos,2025-09-29,2025-10-15,638.91,647.18,0,A tiempo
+5333,USA,Chile,Terrestre,Químicos,2025-06-02,2025-06-23,12235.32,6991.28,3,A tiempo
+5334,China,Ecuador,Terrestre,Maquinaria,2025-04-09,2025-04-14,4594.72,3043.1,0,A tiempo
+5335,USA,México,Terrestre,Textil,2025-11-26,2025-12-23,11176.18,8677.03,1,A tiempo
+5336,Alemania,Perú,Aéreo,Maquinaria,2025-04-21,2025-04-26,6029.0,6161.79,0,A tiempo
+5337,Brasil,Colombia,Aéreo,Maquinaria,2025-10-10,2025-11-18,6633.07,7265.03,10,Retrasado
+5338,Perú,Colombia,Aéreo,Alimentos,2025-10-04,2025-10-11,1800.3,1716.54,7,Retrasado
+5339,China,Chile,Terrestre,Textil,2025-05-18,2025-06-24,6424.71,10494.89,0,A tiempo
+5340,México,Ecuador,Marítimo,Electrónica,2025-04-29,2025-05-06,1463.55,2221.69,10,Retrasado
+5341,USA,Ecuador,Marítimo,Textil,2025-01-02,2025-02-07,10046.4,13696.17,0,A tiempo
+5342,Brasil,México,Marítimo,Electrónica,2025-06-19,2025-07-08,11273.08,11148.4,0,A tiempo
+5343,Alemania,Colombia,Terrestre,Electrónica,2025-03-06,2025-03-30,4940.46,8004.17,8,Retrasado
+5344,Alemania,Perú,Aéreo,Químicos,2025-01-04,2025-01-24,2060.26,1229.72,0,A tiempo
+5345,Alemania,Perú,Terrestre,Químicos,2025-08-13,2025-09-09,15475.58,25324.26,1,A tiempo
+5346,Colombia,Perú,Aéreo,Electrónica,2025-02-15,2025-02-21,11065.37,26800.42,2,A tiempo
+5347,Colombia,México,Terrestre,Textil,2025-04-22,2025-04-30,18268.82,38780.75,2,A tiempo
+5348,USA,México,Terrestre,Químicos,2025-09-18,2025-10-12,17203.74,29464.59,4,Retrasado
+5349,Perú,Ecuador,Marítimo,Químicos,2025-09-29,2025-10-21,19009.51,21791.2,0,A tiempo
+5350,Perú,México,Aéreo,Químicos,2025-12-14,2025-12-25,8051.6,19012.25,7,Retrasado
+5351,Alemania,Perú,Marítimo,Alimentos,2025-11-28,2025-12-20,11790.17,26787.67,0,A tiempo
+5352,México,Ecuador,Terrestre,Electrónica,2025-07-08,2025-08-11,5397.16,12426.31,6,Retrasado
+5353,China,México,Terrestre,Textil,2025-12-12,2026-01-16,13854.06,21662.55,0,A tiempo
+5354,México,Chile,Terrestre,Químicos,2025-05-05,2025-06-07,12219.21,22527.91,4,Retrasado
+5355,Perú,Perú,Aéreo,Alimentos,2025-07-20,2025-08-08,3304.13,5671.91,2,A tiempo
+5356,Perú,Chile,Aéreo,Textil,2025-07-18,2025-08-10,962.41,2077.21,2,A tiempo
+5357,España,Colombia,Marítimo,Textil,2025-01-09,2025-01-23,398.95,553.96,5,Retrasado
+5358,España,Chile,Marítimo,Textil,2025-01-13,2025-01-15,5331.07,9452.84,2,A tiempo
+5359,Perú,Perú,Marítimo,Textil,2025-03-28,2025-04-05,19436.48,37436.37,6,Retrasado
+5360,España,México,Terrestre,Textil,2025-12-06,2026-01-10,1934.47,1055.98,0,A tiempo
+5361,Alemania,Perú,Marítimo,Químicos,2025-11-27,2025-12-26,4404.08,10213.55,0,A tiempo
+5362,México,Ecuador,Terrestre,Alimentos,2025-08-21,2025-09-06,3227.31,7110.68,0,A tiempo
+5363,China,Ecuador,Marítimo,Textil,2025-01-25,2025-02-18,7314.69,16245.4,0,A tiempo
+5364,China,Colombia,Marítimo,Textil,2025-12-14,2025-12-20,1301.12,1294.72,0,A tiempo
+5365,España,Colombia,Terrestre,Electrónica,2025-01-25,2025-03-03,9337.79,12040.33,2,A tiempo
+5366,China,Perú,Marítimo,Maquinaria,2025-07-04,2025-07-26,13593.4,33016.37,0,A tiempo
+5367,España,Chile,Terrestre,Textil,2025-08-15,2025-09-12,7140.03,9659.71,4,Retrasado
+5368,Perú,Chile,Marítimo,Alimentos,2025-09-17,2025-10-08,13494.53,27506.1,0,A tiempo
+5369,USA,Chile,Marítimo,Electrónica,2025-12-04,2026-01-02,15891.04,26370.03,0,A tiempo
+5370,China,Chile,Terrestre,Textil,2025-05-06,2025-05-15,18511.66,41482.31,0,A tiempo
+5371,Perú,México,Terrestre,Maquinaria,2025-05-17,2025-06-17,6260.92,14874.0,2,A tiempo
+5372,España,Colombia,Aéreo,Maquinaria,2025-07-18,2025-08-23,16821.17,24932.59,4,Retrasado
+5373,España,Chile,Aéreo,Maquinaria,2025-04-02,2025-05-01,15348.56,28482.85,5,Retrasado
+5374,Alemania,Ecuador,Aéreo,Electrónica,2025-07-19,2025-07-28,19104.29,26313.1,0,A tiempo
+5375,Colombia,Ecuador,Terrestre,Electrónica,2025-05-08,2025-05-28,3078.81,6652.81,0,A tiempo
+5376,Perú,Perú,Marítimo,Alimentos,2025-12-06,2025-12-11,18383.55,34710.96,3,A tiempo
+5377,Brasil,Perú,Terrestre,Electrónica,2025-04-23,2025-05-16,15716.31,23521.04,2,A tiempo
+5378,México,Colombia,Terrestre,Alimentos,2025-08-20,2025-08-23,12512.55,21898.45,0,A tiempo
+5379,Alemania,Ecuador,Aéreo,Maquinaria,2025-05-21,2025-06-28,4940.73,10376.13,2,A tiempo
+5380,México,Chile,Marítimo,Químicos,2025-12-26,2026-01-06,13748.63,24780.61,1,A tiempo
+5381,China,México,Marítimo,Maquinaria,2025-11-22,2025-12-05,11134.12,11164.21,2,A tiempo
+5382,Perú,Perú,Marítimo,Electrónica,2025-04-27,2025-05-08,5064.48,10538.13,0,A tiempo
+5383,USA,México,Marítimo,Textil,2025-01-03,2025-01-10,4719.28,4256.72,5,Retrasado
+5384,Brasil,Perú,Aéreo,Electrónica,2025-04-19,2025-05-23,9366.66,16362.02,3,A tiempo
+5385,Brasil,México,Marítimo,Alimentos,2025-06-30,2025-07-24,6709.19,6256.75,0,A tiempo
+5386,Brasil,México,Terrestre,Químicos,2025-05-03,2025-05-26,6726.25,15221.86,0,A tiempo
+5387,Perú,Perú,Terrestre,Electrónica,2025-08-29,2025-09-03,18247.61,12574.36,2,A tiempo
+5388,Brasil,Perú,Aéreo,Electrónica,2025-05-02,2025-05-09,16870.81,20848.87,0,A tiempo
+5389,Perú,Colombia,Terrestre,Textil,2025-04-30,2025-06-03,3012.19,5344.36,0,A tiempo
+5390,Colombia,Chile,Aéreo,Maquinaria,2025-11-24,2025-12-28,225.5,486.98,11,Retrasado
+5391,Brasil,Chile,Aéreo,Alimentos,2025-04-17,2025-04-26,17909.66,44374.5,0,A tiempo
+5392,España,México,Terrestre,Alimentos,2025-08-05,2025-08-17,8171.63,17292.76,0,A tiempo
+5393,USA,Colombia,Marítimo,Alimentos,2025-07-09,2025-07-22,15371.9,12405.88,5,Retrasado
+5394,China,Perú,Marítimo,Maquinaria,2025-04-05,2025-04-06,947.19,2231.42,2,A tiempo
+5395,Alemania,Perú,Terrestre,Electrónica,2025-02-24,2025-03-09,2395.94,2299.7,8,Retrasado
+5396,USA,México,Terrestre,Químicos,2025-05-10,2025-05-14,7950.4,5450.4,0,A tiempo
+5397,México,Colombia,Marítimo,Químicos,2025-04-27,2025-06-03,14575.33,16502.56,0,A tiempo
+5398,España,México,Marítimo,Textil,2025-05-12,2025-06-09,6574.91,5765.78,0,A tiempo
+5399,España,Chile,Marítimo,Alimentos,2025-10-24,2025-10-28,14374.8,18907.55,1,A tiempo
+5400,México,Perú,Terrestre,Electrónica,2025-07-14,2025-07-29,1326.81,2446.98,7,Retrasado
+5401,USA,Colombia,Marítimo,Textil,2025-12-22,2026-01-01,11962.86,27523.48,0,A tiempo
+5402,Brasil,Perú,Aéreo,Maquinaria,2025-04-21,2025-05-11,666.25,1128.02,1,A tiempo
+5403,Perú,México,Marítimo,Maquinaria,2025-04-01,2025-04-17,549.77,1024.81,6,Retrasado
+5404,China,Colombia,Terrestre,Textil,2025-01-17,2025-02-22,4860.55,5290.29,0,A tiempo
+5405,Colombia,Chile,Marítimo,Textil,2025-11-11,2025-12-06,15685.92,20880.44,2,A tiempo
+5406,USA,Colombia,Terrestre,Maquinaria,2025-06-24,2025-07-17,4263.71,5804.38,2,A tiempo
+5407,Colombia,México,Terrestre,Químicos,2025-04-18,2025-05-12,5761.16,8509.89,4,Retrasado
+5408,España,Perú,Aéreo,Químicos,2025-01-11,2025-02-18,16809.26,16777.13,0,A tiempo
+5409,Perú,México,Aéreo,Alimentos,2025-08-16,2025-08-27,2842.07,1862.94,2,A tiempo
+5410,Perú,Colombia,Terrestre,Químicos,2025-04-19,2025-04-20,2572.93,2007.27,1,A tiempo
+5411,Perú,Colombia,Aéreo,Maquinaria,2025-08-26,2025-08-27,14405.56,15101.07,2,A tiempo
+5412,México,México,Aéreo,Alimentos,2025-02-10,2025-02-17,12825.3,11080.21,0,A tiempo
+5413,Colombia,Chile,Aéreo,Textil,2025-07-09,2025-07-25,6647.78,15108.57,7,Retrasado
+5414,España,Chile,Terrestre,Alimentos,2025-02-19,2025-03-23,19236.07,40008.72,0,A tiempo
+5415,España,Ecuador,Aéreo,Alimentos,2025-08-27,2025-09-12,13601.61,12859.48,0,A tiempo
+5416,México,Ecuador,Marítimo,Químicos,2025-09-26,2025-10-15,11015.1,12966.85,2,A tiempo
+5417,Colombia,Perú,Marítimo,Maquinaria,2025-10-20,2025-10-25,4722.39,9151.46,0,A tiempo
+5418,México,Perú,Aéreo,Electrónica,2025-10-17,2025-11-05,759.92,804.04,5,Retrasado
+5419,USA,Perú,Marítimo,Textil,2025-11-17,2025-12-23,13763.47,9745.29,2,A tiempo
+5420,México,Perú,Terrestre,Maquinaria,2025-11-11,2025-11-23,13328.82,32712.95,0,A tiempo
+5421,USA,Ecuador,Terrestre,Alimentos,2025-10-23,2025-11-05,18195.44,19737.57,0,A tiempo
+5422,USA,Chile,Aéreo,Químicos,2025-04-02,2025-05-07,5619.44,5468.62,6,Retrasado
+5423,Colombia,Perú,Terrestre,Alimentos,2025-11-16,2025-12-15,5067.71,10981.11,0,A tiempo
+5424,México,Ecuador,Aéreo,Alimentos,2025-06-27,2025-07-02,19764.5,38239.25,6,Retrasado
+5425,USA,Chile,Marítimo,Químicos,2025-02-19,2025-03-05,14328.75,35586.73,0,A tiempo
+5426,USA,Chile,Aéreo,Alimentos,2025-10-23,2025-10-27,19899.03,24789.53,0,A tiempo
+5427,México,Chile,Aéreo,Químicos,2025-10-23,2025-11-10,15104.94,17128.4,0,A tiempo
+5428,México,Ecuador,Terrestre,Electrónica,2025-06-10,2025-07-04,8506.3,10063.22,2,A tiempo
+5429,España,Ecuador,Marítimo,Textil,2025-09-18,2025-10-26,391.9,344.61,0,A tiempo
+5430,Brasil,México,Terrestre,Alimentos,2025-02-09,2025-03-18,13261.42,26699.76,0,A tiempo
+5431,México,México,Terrestre,Textil,2025-02-14,2025-02-19,5939.17,7495.22,2,A tiempo
+5432,USA,Ecuador,Marítimo,Textil,2025-05-26,2025-06-03,17347.45,13674.26,0,A tiempo
+5433,México,Perú,Terrestre,Electrónica,2025-03-28,2025-04-11,7216.76,15281.18,3,A tiempo
+5434,China,Chile,Terrestre,Textil,2025-11-12,2025-12-06,16847.5,26474.21,0,A tiempo
+5435,España,México,Marítimo,Maquinaria,2025-11-12,2025-12-07,1156.02,2258.61,0,A tiempo
+5436,Perú,México,Marítimo,Electrónica,2025-02-21,2025-03-02,19792.49,22802.43,2,A tiempo
+5437,China,Chile,Aéreo,Químicos,2025-04-24,2025-04-25,16100.73,17924.22,3,A tiempo
+5438,España,México,Terrestre,Químicos,2025-06-14,2025-07-11,8571.23,6935.34,8,Retrasado
+5439,Alemania,Colombia,Terrestre,Alimentos,2025-02-15,2025-02-27,239.07,440.18,0,A tiempo
+5440,Brasil,Colombia,Terrestre,Maquinaria,2025-02-13,2025-03-24,3542.35,7294.72,0,A tiempo
+5441,Colombia,México,Terrestre,Electrónica,2025-06-23,2025-06-24,18488.81,44750.65,0,A tiempo
+5442,China,Perú,Marítimo,Maquinaria,2025-08-10,2025-08-26,16138.46,21834.84,0,A tiempo
+5443,Alemania,Colombia,Terrestre,Electrónica,2025-03-03,2025-04-03,11077.88,25036.98,8,Retrasado
+5444,España,Perú,Terrestre,Químicos,2025-02-25,2025-04-04,6965.47,7391.29,4,Retrasado
+5445,Brasil,Ecuador,Aéreo,Textil,2025-09-13,2025-09-25,17443.6,24299.04,0,A tiempo
+5446,Perú,Chile,Marítimo,Maquinaria,2025-12-01,2026-01-03,11112.3,21801.79,3,A tiempo
+5447,Brasil,México,Marítimo,Alimentos,2025-01-01,2025-02-01,4207.28,8005.81,0,A tiempo
+5448,México,Colombia,Aéreo,Maquinaria,2025-10-07,2025-10-12,15188.05,21542.26,0,A tiempo
+5449,España,Perú,Terrestre,Electrónica,2025-01-05,2025-01-16,13386.39,9614.83,10,Retrasado
+5450,USA,México,Terrestre,Químicos,2025-12-10,2025-12-21,7748.67,17550.19,0,A tiempo
+5451,China,Ecuador,Aéreo,Alimentos,2025-05-07,2025-05-16,804.98,1136.57,0,A tiempo
+5452,China,Ecuador,Aéreo,Alimentos,2025-10-08,2025-10-21,2977.95,3117.06,0,A tiempo
+5453,Brasil,Colombia,Terrestre,Alimentos,2025-07-10,2025-07-30,12447.39,25607.62,0,A tiempo
+5454,España,México,Terrestre,Maquinaria,2025-05-15,2025-06-10,17692.55,10166.63,3,A tiempo
+5455,México,México,Terrestre,Maquinaria,2025-05-22,2025-06-24,4955.9,8447.69,0,A tiempo
+5456,Perú,México,Marítimo,Electrónica,2025-09-08,2025-10-07,7100.63,10881.19,4,Retrasado
+5457,España,Ecuador,Aéreo,Textil,2025-11-19,2025-12-24,13373.25,17566.8,0,A tiempo
+5458,México,Ecuador,Terrestre,Alimentos,2025-10-22,2025-11-10,17405.87,20277.9,10,Retrasado
+5459,España,Chile,Marítimo,Alimentos,2025-05-06,2025-05-11,19235.72,10070.52,0,A tiempo
+5460,México,Ecuador,Marítimo,Textil,2025-10-06,2025-11-12,645.06,867.26,2,A tiempo
+5461,Alemania,Ecuador,Marítimo,Químicos,2025-03-03,2025-03-08,6239.93,13637.91,2,A tiempo
+5462,USA,Chile,Terrestre,Maquinaria,2025-01-01,2025-01-23,12389.67,11606.25,5,Retrasado
+5463,USA,México,Aéreo,Alimentos,2025-09-09,2025-09-14,3063.52,4785.12,6,Retrasado
+5464,México,Ecuador,Aéreo,Electrónica,2025-01-31,2025-02-05,4286.88,4853.88,3,A tiempo
+5465,España,Chile,Terrestre,Maquinaria,2025-05-28,2025-06-13,18002.33,26185.66,0,A tiempo
+5466,Colombia,México,Aéreo,Alimentos,2025-10-26,2025-11-07,8075.32,10497.16,1,A tiempo
+5467,Brasil,Perú,Marítimo,Textil,2025-05-21,2025-06-17,9019.93,13773.49,8,Retrasado
+5468,España,Chile,Terrestre,Electrónica,2025-01-20,2025-02-21,8722.25,16379.68,3,A tiempo
+5469,Alemania,Chile,Terrestre,Electrónica,2025-01-07,2025-02-01,13717.15,9282.54,8,Retrasado
+5470,Brasil,México,Marítimo,Maquinaria,2025-11-28,2026-01-01,14747.13,21767.56,9,Retrasado
+5471,Perú,Colombia,Aéreo,Alimentos,2025-10-27,2025-11-21,14548.78,34141.13,10,Retrasado
+5472,México,Perú,Terrestre,Alimentos,2025-08-27,2025-09-03,15512.05,38667.28,1,A tiempo
+5473,USA,Ecuador,Terrestre,Electrónica,2025-01-04,2025-01-30,9912.8,8746.89,7,Retrasado
+5474,España,Colombia,Marítimo,Textil,2025-10-06,2025-11-03,11050.96,9457.14,0,A tiempo
+5475,España,México,Marítimo,Alimentos,2025-06-07,2025-07-16,9862.72,5329.11,11,Retrasado
+5476,China,México,Aéreo,Textil,2025-01-31,2025-02-04,15465.34,38524.76,0,A tiempo
+5477,Colombia,México,Aéreo,Textil,2025-10-03,2025-11-02,15206.44,35724.86,0,A tiempo
+5478,USA,Colombia,Aéreo,Alimentos,2025-09-11,2025-10-17,440.64,970.05,3,A tiempo
+5479,Colombia,México,Aéreo,Textil,2025-03-19,2025-04-26,6434.27,14475.68,2,A tiempo
+5480,China,Perú,Marítimo,Maquinaria,2025-04-29,2025-05-31,6773.39,7665.17,0,A tiempo
+5481,China,Colombia,Terrestre,Alimentos,2025-12-18,2026-01-17,641.17,990.0,13,Retrasado
+5482,España,Perú,Marítimo,Alimentos,2025-02-12,2025-02-22,16283.78,34606.43,2,A tiempo
+5483,España,Perú,Terrestre,Químicos,2025-10-25,2025-11-21,15850.29,16081.83,0,A tiempo
+5484,México,México,Aéreo,Alimentos,2025-08-26,2025-08-28,253.96,387.99,0,A tiempo
+5485,España,Perú,Terrestre,Electrónica,2025-03-23,2025-04-10,15709.47,11007.61,11,Retrasado
+5486,México,Colombia,Aéreo,Electrónica,2025-07-27,2025-09-01,14152.1,21459.05,1,A tiempo
+5487,USA,México,Aéreo,Textil,2025-07-30,2025-08-11,19380.74,36333.74,0,A tiempo
+5488,Alemania,Ecuador,Marítimo,Alimentos,2025-01-18,2025-02-25,1453.88,1541.6,1,A tiempo
+5489,Colombia,Chile,Marítimo,Alimentos,2025-09-09,2025-09-11,6665.96,5552.05,4,Retrasado
+5490,Brasil,Ecuador,Terrestre,Maquinaria,2025-01-19,2025-01-26,13054.86,29636.81,1,A tiempo
+5491,Brasil,Colombia,Terrestre,Maquinaria,2025-07-24,2025-08-12,14346.82,23377.29,3,A tiempo
+5492,México,México,Aéreo,Alimentos,2025-01-16,2025-02-01,2394.28,4545.67,0,A tiempo
+5493,China,Colombia,Aéreo,Químicos,2025-10-15,2025-10-28,13353.16,19633.32,4,Retrasado
+5494,España,México,Terrestre,Textil,2025-12-20,2026-01-28,19294.07,14101.41,10,Retrasado
+5495,Brasil,Chile,Marítimo,Electrónica,2025-01-25,2025-02-24,10963.09,6690.4,1,A tiempo
+5496,Colombia,Perú,Marítimo,Maquinaria,2025-11-17,2025-12-01,9861.82,21866.65,0,A tiempo
+5497,Brasil,Perú,Aéreo,Maquinaria,2025-10-14,2025-11-06,13583.72,21309.06,0,A tiempo
+5498,España,Perú,Marítimo,Textil,2025-05-30,2025-06-11,18226.25,40740.69,2,A tiempo
+5499,España,Chile,Terrestre,Electrónica,2025-03-05,2025-03-27,17680.63,40357.39,5,Retrasado
+5500,China,Colombia,Terrestre,Textil,2025-09-28,2025-10-05,368.26,713.21,5,Retrasado
+5501,Brasil,Ecuador,Aéreo,Electrónica,2025-09-26,2025-10-01,14250.35,23805.04,4,Retrasado
+5502,Perú,Ecuador,Marítimo,Electrónica,2025-08-31,2025-09-02,14904.62,9500.11,0,A tiempo
+5503,USA,Ecuador,Aéreo,Electrónica,2025-04-24,2025-05-05,9350.37,16894.15,4,Retrasado
+5504,China,Chile,Terrestre,Alimentos,2025-06-15,2025-07-09,7905.5,7699.71,0,A tiempo
+5505,España,Colombia,Marítimo,Electrónica,2025-01-05,2025-02-03,7154.75,9610.97,2,A tiempo
+5506,Colombia,Colombia,Aéreo,Alimentos,2025-05-04,2025-06-05,8362.43,8161.25,0,A tiempo
+5507,Perú,Colombia,Terrestre,Electrónica,2025-06-27,2025-07-17,14550.76,7365.82,9,Retrasado
+5508,USA,Ecuador,Marítimo,Químicos,2025-04-05,2025-05-10,17553.01,18070.31,4,Retrasado
+5509,Colombia,Ecuador,Marítimo,Maquinaria,2025-07-25,2025-07-29,6217.89,5022.45,3,A tiempo
+5510,Perú,Ecuador,Marítimo,Químicos,2025-04-08,2025-05-07,9565.19,9734.81,2,A tiempo
+5511,Perú,Ecuador,Marítimo,Electrónica,2025-08-25,2025-09-22,3198.57,3417.33,0,A tiempo
+5512,China,Chile,Marítimo,Alimentos,2025-07-31,2025-08-19,13059.88,22646.01,6,Retrasado
+5513,Brasil,Ecuador,Aéreo,Textil,2025-11-12,2025-12-19,7168.44,11874.98,3,A tiempo
+5514,Colombia,Colombia,Marítimo,Alimentos,2025-03-12,2025-04-10,2409.83,1766.47,1,A tiempo
+5515,España,Colombia,Terrestre,Electrónica,2025-10-05,2025-11-13,14219.68,21338.01,0,A tiempo
+5516,Perú,Colombia,Aéreo,Químicos,2025-11-16,2025-12-16,18926.1,10752.72,3,A tiempo
+5517,México,México,Aéreo,Alimentos,2025-01-16,2025-01-22,1743.33,1860.29,4,Retrasado
+5518,España,Colombia,Terrestre,Químicos,2025-06-02,2025-06-24,5141.65,10544.43,2,A tiempo
+5519,Colombia,Chile,Terrestre,Alimentos,2025-05-07,2025-05-29,1895.21,1854.49,1,A tiempo
+5520,Alemania,Chile,Terrestre,Textil,2025-01-09,2025-01-29,5900.96,5840.85,1,A tiempo
+5521,Perú,Ecuador,Marítimo,Electrónica,2025-10-10,2025-10-26,6496.37,9476.78,0,A tiempo
+5522,España,Colombia,Terrestre,Maquinaria,2025-11-17,2025-12-24,6351.37,11829.85,0,A tiempo
+5523,China,Colombia,Marítimo,Maquinaria,2025-10-07,2025-10-26,14336.22,18203.12,0,A tiempo
+5524,Perú,Colombia,Aéreo,Electrónica,2025-09-22,2025-10-12,13771.23,26921.7,0,A tiempo
+5525,México,Chile,Marítimo,Electrónica,2025-05-10,2025-06-18,2958.99,5198.85,3,A tiempo
+5526,México,Chile,Aéreo,Alimentos,2025-03-31,2025-04-11,8092.03,17603.73,6,Retrasado
+5527,China,Colombia,Aéreo,Químicos,2025-07-01,2025-08-02,12073.89,25932.45,0,A tiempo
+5528,China,Ecuador,Terrestre,Electrónica,2025-02-06,2025-03-15,1440.93,1201.63,0,A tiempo
+5529,Perú,Ecuador,Marítimo,Químicos,2025-08-22,2025-09-01,11866.62,15667.29,0,A tiempo
+5530,Colombia,Chile,Aéreo,Maquinaria,2025-08-11,2025-08-15,18311.09,42131.98,0,A tiempo
+5531,USA,México,Aéreo,Maquinaria,2025-11-26,2025-12-25,16040.28,37401.93,7,Retrasado
+5532,China,Colombia,Marítimo,Electrónica,2025-11-27,2025-12-03,8391.15,8165.8,8,Retrasado
+5533,Brasil,Chile,Aéreo,Alimentos,2025-12-19,2025-12-21,11136.54,21493.24,2,A tiempo
+5534,USA,Colombia,Marítimo,Electrónica,2025-01-25,2025-01-29,12737.11,15677.21,0,A tiempo
+5535,Perú,Chile,Marítimo,Textil,2025-09-22,2025-10-18,8933.51,12975.02,1,A tiempo
+5536,México,Chile,Aéreo,Químicos,2025-04-25,2025-05-18,4895.64,3043.03,9,Retrasado
+5537,Colombia,Perú,Marítimo,Alimentos,2025-09-24,2025-10-09,8329.28,13975.92,4,Retrasado
+5538,Perú,México,Terrestre,Alimentos,2025-07-24,2025-08-10,14144.2,25682.49,7,Retrasado
+5539,China,Chile,Terrestre,Alimentos,2025-12-25,2026-01-30,16195.04,28523.05,2,A tiempo
+5540,Perú,Perú,Marítimo,Alimentos,2025-06-22,2025-06-23,17586.5,37069.82,0,A tiempo
+5541,Alemania,Chile,Aéreo,Alimentos,2025-02-13,2025-03-03,4624.81,8010.43,2,A tiempo
+5542,China,Perú,Aéreo,Textil,2025-08-18,2025-09-07,168.5,343.96,5,Retrasado
+5543,Alemania,Perú,Terrestre,Alimentos,2025-06-10,2025-07-15,18357.75,16775.43,0,A tiempo
+5544,USA,México,Marítimo,Maquinaria,2025-05-02,2025-05-25,16850.03,13986.37,0,A tiempo
+5545,España,Colombia,Terrestre,Maquinaria,2025-08-09,2025-09-17,6745.14,14825.88,0,A tiempo
+5546,Colombia,Colombia,Terrestre,Químicos,2025-11-06,2025-11-17,10789.66,22543.22,1,A tiempo
+5547,México,Perú,Marítimo,Electrónica,2025-03-30,2025-04-11,13752.41,7591.42,5,Retrasado
+5548,USA,Chile,Aéreo,Químicos,2025-09-04,2025-09-20,16485.24,16742.22,0,A tiempo
+5549,España,México,Aéreo,Maquinaria,2025-09-26,2025-10-07,19545.53,17351.51,7,Retrasado
+5550,China,México,Marítimo,Textil,2025-12-18,2025-12-19,6239.51,12395.65,0,A tiempo
+5551,China,México,Aéreo,Electrónica,2025-03-21,2025-04-09,9339.95,5710.86,0,A tiempo
+5552,USA,Chile,Marítimo,Textil,2025-07-07,2025-07-23,1912.53,1660.46,2,A tiempo
+5553,Alemania,Colombia,Aéreo,Textil,2025-09-13,2025-09-14,18773.12,46055.78,0,A tiempo
+5554,USA,México,Marítimo,Electrónica,2025-01-18,2025-02-04,16835.72,10212.75,2,A tiempo
+5555,México,Colombia,Aéreo,Maquinaria,2025-11-14,2025-11-23,8815.68,5897.4,3,A tiempo
+5556,Alemania,Colombia,Terrestre,Alimentos,2025-05-05,2025-05-28,11128.73,23982.02,0,A tiempo
+5557,Colombia,Chile,Aéreo,Químicos,2025-09-04,2025-09-19,7917.41,10674.73,6,Retrasado
+5558,Alemania,Ecuador,Aéreo,Maquinaria,2025-05-28,2025-06-04,5737.88,10938.94,1,A tiempo
+5559,China,Colombia,Marítimo,Textil,2025-11-24,2025-12-12,358.27,228.38,3,A tiempo
+5560,China,México,Terrestre,Maquinaria,2025-10-22,2025-10-25,2438.18,5553.75,0,A tiempo
+5561,Alemania,Chile,Terrestre,Maquinaria,2025-06-20,2025-07-12,4989.45,8532.92,0,A tiempo
+5562,España,Chile,Aéreo,Químicos,2025-12-13,2025-12-19,14111.6,23567.12,5,Retrasado
+5563,China,Chile,Marítimo,Maquinaria,2025-10-08,2025-11-05,11667.65,28407.91,7,Retrasado
+5564,Perú,México,Aéreo,Textil,2025-06-07,2025-06-09,19937.12,10780.04,1,A tiempo
+5565,Perú,Perú,Marítimo,Alimentos,2025-11-20,2025-11-22,13576.8,31575.57,2,A tiempo
+5566,España,Chile,Terrestre,Químicos,2025-07-13,2025-08-19,9993.59,19823.06,0,A tiempo
+5567,Colombia,Colombia,Aéreo,Electrónica,2025-07-24,2025-08-18,2620.79,3776.08,2,A tiempo
+5568,Perú,Chile,Marítimo,Electrónica,2025-02-10,2025-02-20,595.14,365.78,0,A tiempo
+5569,USA,Perú,Marítimo,Maquinaria,2025-11-23,2025-12-03,6705.4,12822.78,4,Retrasado
+5570,Perú,Colombia,Aéreo,Maquinaria,2025-05-24,2025-06-30,12681.69,14093.78,0,A tiempo
+5571,México,Colombia,Terrestre,Maquinaria,2025-06-25,2025-07-31,4078.92,2148.91,0,A tiempo
+5572,Alemania,Colombia,Marítimo,Químicos,2025-12-27,2026-01-28,12548.27,14560.15,4,Retrasado
+5573,Brasil,Chile,Marítimo,Maquinaria,2025-10-29,2025-11-15,12427.91,10980.92,0,A tiempo
+5574,Perú,Chile,Aéreo,Maquinaria,2025-02-12,2025-03-13,4353.83,3853.32,3,A tiempo
+5575,China,Colombia,Marítimo,Electrónica,2025-10-10,2025-11-11,14497.15,20555.13,7,Retrasado
+5576,China,Perú,Marítimo,Electrónica,2025-03-27,2025-04-18,8071.98,7007.62,0,A tiempo
+5577,USA,Ecuador,Terrestre,Químicos,2025-03-02,2025-04-09,11570.95,14756.75,10,Retrasado
+5578,USA,Colombia,Terrestre,Químicos,2025-10-27,2025-12-01,3565.74,7274.92,4,Retrasado
+5579,Alemania,Perú,Marítimo,Alimentos,2025-07-16,2025-08-21,5134.69,10098.93,0,A tiempo
+5580,Brasil,Perú,Aéreo,Maquinaria,2025-06-22,2025-07-05,6049.11,3978.14,0,A tiempo
+5581,México,Perú,Terrestre,Alimentos,2025-02-09,2025-03-02,14944.32,12841.51,1,A tiempo
+5582,Colombia,Colombia,Terrestre,Electrónica,2025-02-04,2025-03-01,16072.18,36957.72,0,A tiempo
+5583,México,Colombia,Terrestre,Alimentos,2025-05-27,2025-06-10,693.6,1535.24,0,A tiempo
+5584,Perú,Ecuador,Terrestre,Químicos,2025-12-10,2026-01-08,17374.58,15675.22,3,A tiempo
+5585,México,Perú,Aéreo,Electrónica,2025-03-22,2025-04-15,15347.76,29266.26,0,A tiempo
+5586,Brasil,Chile,Marítimo,Electrónica,2025-09-21,2025-10-18,12308.73,12262.76,0,A tiempo
+5587,Brasil,México,Aéreo,Textil,2025-07-15,2025-08-22,9568.07,23566.81,3,A tiempo
+5588,Brasil,México,Terrestre,Electrónica,2025-07-21,2025-08-10,6402.44,10196.3,0,A tiempo
+5589,Perú,Perú,Marítimo,Alimentos,2025-12-14,2026-01-03,2499.71,2355.88,2,A tiempo
+5590,Colombia,México,Terrestre,Textil,2025-11-10,2025-11-23,13815.6,20871.96,4,Retrasado
+5591,USA,México,Marítimo,Electrónica,2025-11-07,2025-12-14,1831.75,3775.28,0,A tiempo
+5592,Colombia,Colombia,Aéreo,Alimentos,2025-01-19,2025-02-23,9130.58,9231.17,5,Retrasado
+5593,México,Colombia,Marítimo,Maquinaria,2025-12-27,2026-01-30,1890.18,3114.13,0,A tiempo
+5594,USA,Ecuador,Marítimo,Químicos,2025-12-11,2025-12-31,9083.25,18881.96,0,A tiempo
+5595,Colombia,Perú,Marítimo,Maquinaria,2025-02-09,2025-03-02,5190.35,3440.67,0,A tiempo
+5596,España,México,Aéreo,Textil,2025-07-20,2025-07-23,18928.09,28767.59,1,A tiempo
+5597,España,Colombia,Aéreo,Alimentos,2025-01-10,2025-02-07,6305.89,8125.38,1,A tiempo
+5598,Brasil,México,Aéreo,Electrónica,2025-02-08,2025-02-10,1963.56,1674.75,3,A tiempo
+5599,Colombia,México,Aéreo,Textil,2025-11-13,2025-12-16,2548.75,3967.65,8,Retrasado
+5600,USA,Chile,Marítimo,Químicos,2025-01-16,2025-01-22,8649.81,8412.76,5,Retrasado
+5601,USA,Perú,Terrestre,Alimentos,2025-04-05,2025-04-26,19504.17,40133.46,4,Retrasado
+5602,México,Colombia,Aéreo,Alimentos,2025-06-29,2025-07-19,18514.69,42569.87,0,A tiempo
+5603,China,Colombia,Aéreo,Químicos,2025-04-06,2025-04-19,2584.0,2708.16,0,A tiempo
+5604,China,Chile,Aéreo,Químicos,2025-12-07,2026-01-09,2300.51,2180.17,6,Retrasado
+5605,Brasil,Colombia,Aéreo,Maquinaria,2025-04-29,2025-05-01,19033.24,16675.28,0,A tiempo
+5606,Colombia,Chile,Aéreo,Electrónica,2025-09-18,2025-10-14,11278.79,22663.44,10,Retrasado
+5607,Perú,Perú,Terrestre,Electrónica,2025-10-10,2025-11-02,17978.6,12833.2,7,Retrasado
+5608,Brasil,Ecuador,Aéreo,Textil,2025-01-18,2025-02-23,13846.86,32533.11,9,Retrasado
+5609,USA,México,Aéreo,Electrónica,2025-05-21,2025-05-24,12775.7,6895.75,4,Retrasado
+5610,Colombia,Ecuador,Marítimo,Alimentos,2025-03-13,2025-04-07,11929.99,15255.29,0,A tiempo
+5611,Brasil,Chile,Terrestre,Electrónica,2025-04-04,2025-04-16,18210.24,41299.81,0,A tiempo
+5612,Brasil,México,Marítimo,Electrónica,2025-05-31,2025-06-05,9952.78,14557.23,0,A tiempo
+5613,Perú,México,Aéreo,Electrónica,2025-01-21,2025-02-05,6876.71,6761.38,0,A tiempo
+5614,USA,Perú,Terrestre,Textil,2025-08-12,2025-09-16,8799.06,14309.22,0,A tiempo
+5615,Perú,México,Marítimo,Alimentos,2025-03-11,2025-04-12,1896.99,2652.75,4,Retrasado
+5616,Perú,México,Marítimo,Químicos,2025-01-31,2025-02-25,7278.55,7204.32,1,A tiempo
+5617,USA,Chile,Terrestre,Químicos,2025-06-12,2025-07-10,12967.81,23461.2,2,A tiempo
+5618,Brasil,Chile,Aéreo,Alimentos,2025-05-05,2025-05-08,18191.71,35681.15,0,A tiempo
+5619,Alemania,Chile,Terrestre,Maquinaria,2025-12-22,2026-01-29,18262.1,17651.02,4,Retrasado
+5620,México,México,Marítimo,Electrónica,2025-10-20,2025-11-26,663.62,1412.23,5,Retrasado
+5621,Alemania,Perú,Aéreo,Maquinaria,2025-04-09,2025-04-16,19557.85,39512.9,0,A tiempo
+5622,Brasil,Chile,Marítimo,Electrónica,2025-08-04,2025-08-22,554.47,534.88,1,A tiempo
+5623,España,México,Aéreo,Maquinaria,2025-07-15,2025-07-30,8679.85,9005.58,0,A tiempo
+5624,Colombia,Chile,Aéreo,Alimentos,2025-03-09,2025-04-05,5006.32,11917.57,5,Retrasado
+5625,México,Perú,Marítimo,Textil,2025-10-07,2025-11-08,18414.86,35966.89,0,A tiempo
+5626,Perú,México,Terrestre,Textil,2025-09-13,2025-10-12,7761.3,16239.65,0,A tiempo
+5627,Alemania,Chile,Terrestre,Químicos,2025-02-16,2025-03-02,12520.4,15786.99,5,Retrasado
+5628,Perú,Perú,Terrestre,Maquinaria,2025-09-22,2025-09-25,8848.68,7201.23,5,Retrasado
+5629,Perú,Chile,Terrestre,Químicos,2025-08-18,2025-09-05,18626.76,34587.3,3,A tiempo
+5630,España,Ecuador,Marítimo,Electrónica,2025-01-04,2025-01-11,6202.8,10662.14,0,A tiempo
+5631,China,México,Aéreo,Químicos,2025-01-19,2025-01-21,18513.15,34257.41,0,A tiempo
+5632,Brasil,Colombia,Aéreo,Maquinaria,2025-07-19,2025-08-21,11099.54,6452.48,6,Retrasado
+5633,España,México,Terrestre,Maquinaria,2025-02-03,2025-02-11,15729.76,12556.2,5,Retrasado
+5634,China,Ecuador,Terrestre,Maquinaria,2025-08-10,2025-08-18,15346.43,24855.87,2,A tiempo
+5635,Brasil,Colombia,Marítimo,Electrónica,2025-03-05,2025-03-06,9610.24,9883.54,0,A tiempo
+5636,Perú,Colombia,Marítimo,Químicos,2025-09-08,2025-10-06,3929.71,5957.45,6,Retrasado
+5637,Alemania,Chile,Aéreo,Químicos,2025-05-15,2025-05-19,4273.93,9595.54,7,Retrasado
+5638,Colombia,Colombia,Marítimo,Químicos,2025-09-28,2025-10-27,17893.01,21676.54,0,A tiempo
+5639,Perú,México,Marítimo,Químicos,2025-03-11,2025-03-17,10663.21,14239.63,0,A tiempo
+5640,Colombia,Perú,Marítimo,Químicos,2025-08-27,2025-09-04,19937.15,13374.14,8,Retrasado
+5641,Perú,Ecuador,Marítimo,Alimentos,2025-12-21,2026-01-06,7222.21,14527.83,0,A tiempo
+5642,China,Chile,Aéreo,Alimentos,2025-06-28,2025-07-03,806.37,1958.22,4,Retrasado
+5643,México,Perú,Marítimo,Químicos,2025-04-12,2025-05-16,3461.48,4153.21,0,A tiempo
+5644,Perú,Colombia,Terrestre,Maquinaria,2025-04-25,2025-05-02,6190.77,3535.92,0,A tiempo
+5645,España,Chile,Marítimo,Textil,2025-03-11,2025-03-29,17337.01,8893.88,0,A tiempo
+5646,México,Chile,Marítimo,Textil,2025-07-29,2025-08-09,531.64,570.03,1,A tiempo
+5647,China,Ecuador,Marítimo,Alimentos,2025-07-07,2025-07-08,1442.48,2598.81,2,A tiempo
+5648,España,Ecuador,Aéreo,Electrónica,2025-07-20,2025-08-01,13138.52,31463.13,8,Retrasado
+5649,Perú,Chile,Aéreo,Electrónica,2025-09-07,2025-09-14,3198.65,2735.25,1,A tiempo
+5650,Brasil,Chile,Aéreo,Alimentos,2025-01-07,2025-01-13,19717.04,22606.69,0,A tiempo
+5651,China,Colombia,Terrestre,Maquinaria,2025-02-15,2025-03-08,15747.59,13786.03,0,A tiempo
+5652,China,Colombia,Marítimo,Electrónica,2025-03-19,2025-04-26,2632.72,5244.89,0,A tiempo
+5653,España,México,Terrestre,Maquinaria,2025-01-03,2025-01-22,19525.3,45793.75,8,Retrasado
+5654,Alemania,Chile,Aéreo,Químicos,2025-03-09,2025-04-09,11437.82,16046.81,0,A tiempo
+5655,México,Colombia,Terrestre,Alimentos,2025-11-05,2025-12-01,18777.28,40432.13,0,A tiempo
+5656,Colombia,Ecuador,Aéreo,Textil,2025-08-26,2025-09-27,16070.69,26998.61,7,Retrasado
+5657,Brasil,México,Marítimo,Alimentos,2025-02-28,2025-04-03,17437.29,19314.81,0,A tiempo
+5658,Perú,Perú,Aéreo,Químicos,2025-01-14,2025-01-24,3181.52,4445.72,4,Retrasado
+5659,Alemania,México,Terrestre,Electrónica,2025-04-02,2025-04-19,18643.44,41049.85,5,Retrasado
+5660,Colombia,Ecuador,Terrestre,Químicos,2025-09-18,2025-10-04,14512.58,9955.11,4,Retrasado
+5661,Colombia,Chile,Marítimo,Químicos,2025-06-12,2025-07-16,19286.23,25465.45,0,A tiempo
+5662,USA,Perú,Marítimo,Maquinaria,2025-07-15,2025-08-22,19821.25,20483.19,4,Retrasado
+5663,Perú,México,Terrestre,Maquinaria,2025-07-15,2025-07-16,4291.6,3131.62,3,A tiempo
+5664,USA,Colombia,Marítimo,Textil,2025-03-27,2025-04-02,15245.91,22824.92,5,Retrasado
+5665,China,Chile,Aéreo,Electrónica,2025-03-03,2025-03-07,600.64,996.58,3,A tiempo
+5666,China,Chile,Marítimo,Textil,2025-02-27,2025-03-06,6782.98,11641.24,7,Retrasado
+5667,USA,México,Marítimo,Textil,2025-12-18,2025-12-24,13318.75,8541.34,0,A tiempo
+5668,España,Perú,Marítimo,Maquinaria,2025-12-09,2025-12-11,14799.68,17243.72,3,A tiempo
+5669,Alemania,Perú,Terrestre,Textil,2025-09-30,2025-10-30,12133.62,29268.29,1,A tiempo
+5670,Perú,Colombia,Terrestre,Textil,2025-08-25,2025-09-03,8334.27,4434.92,6,Retrasado
+5671,Brasil,Ecuador,Aéreo,Maquinaria,2025-03-24,2025-03-31,16499.54,29723.04,3,A tiempo
+5672,Alemania,Ecuador,Aéreo,Químicos,2025-02-12,2025-03-19,3057.74,5716.41,3,A tiempo
+5673,Perú,Colombia,Terrestre,Químicos,2025-12-08,2025-12-09,11854.63,12129.42,1,A tiempo
+5674,Colombia,Perú,Marítimo,Maquinaria,2025-04-13,2025-05-13,6892.81,7732.14,4,Retrasado
+5675,Colombia,Colombia,Marítimo,Alimentos,2025-03-11,2025-04-10,7594.96,16300.82,6,Retrasado
+5676,Alemania,México,Aéreo,Químicos,2025-12-04,2025-12-12,9073.65,6395.33,0,A tiempo
+5677,China,Chile,Aéreo,Electrónica,2025-02-27,2025-04-06,13951.53,30299.16,4,Retrasado
+5678,Colombia,México,Terrestre,Maquinaria,2025-04-19,2025-05-01,3568.08,2806.88,7,Retrasado
+5679,Alemania,México,Terrestre,Alimentos,2025-03-07,2025-03-09,4433.8,9834.38,2,A tiempo
+5680,USA,Perú,Marítimo,Textil,2025-01-06,2025-01-08,12565.34,11076.21,4,Retrasado
+5681,España,Chile,Terrestre,Textil,2025-03-09,2025-03-14,15916.55,19467.39,11,Retrasado
+5682,España,Ecuador,Aéreo,Maquinaria,2025-06-15,2025-07-22,13703.75,32132.78,0,A tiempo
+5683,Brasil,Perú,Marítimo,Textil,2025-07-13,2025-08-20,18113.17,34165.9,0,A tiempo
+5684,Perú,Perú,Marítimo,Maquinaria,2025-03-03,2025-03-21,3462.08,8615.05,2,A tiempo
+5685,Perú,México,Aéreo,Electrónica,2025-09-19,2025-09-21,18104.39,44887.33,6,Retrasado
+5686,Perú,Chile,Marítimo,Textil,2025-07-15,2025-08-23,2707.09,4930.65,0,A tiempo
+5687,Perú,México,Aéreo,Electrónica,2025-08-08,2025-08-14,1669.43,2785.94,0,A tiempo
+5688,Alemania,México,Marítimo,Maquinaria,2025-04-27,2025-04-29,4459.21,10836.3,8,Retrasado
+5689,México,Chile,Terrestre,Textil,2025-03-14,2025-03-20,16932.61,17976.0,0,A tiempo
+5690,Brasil,Perú,Aéreo,Químicos,2025-10-18,2025-10-25,2156.91,3530.69,12,Retrasado
+5691,Perú,Ecuador,Terrestre,Maquinaria,2025-05-09,2025-05-30,18022.65,40764.63,0,A tiempo
+5692,China,Perú,Marítimo,Electrónica,2025-07-10,2025-07-20,17264.55,29741.05,5,Retrasado
+5693,Alemania,Perú,Aéreo,Textil,2025-09-28,2025-10-24,6116.19,5777.38,0,A tiempo
+5694,China,Perú,Aéreo,Químicos,2025-11-16,2025-12-08,2594.62,4303.89,1,A tiempo
+5695,Perú,Chile,Aéreo,Alimentos,2025-06-13,2025-07-16,12421.24,7035.3,1,A tiempo
+5696,España,Perú,Marítimo,Maquinaria,2025-12-21,2026-01-02,7559.38,15231.96,5,Retrasado
+5697,Colombia,Chile,Aéreo,Maquinaria,2025-07-12,2025-07-24,8909.96,18281.02,0,A tiempo
+5698,Perú,Chile,Aéreo,Maquinaria,2025-10-17,2025-11-22,7181.63,8778.27,8,Retrasado
+5699,México,Ecuador,Terrestre,Textil,2025-01-29,2025-02-07,13478.47,32171.41,7,Retrasado
+5700,Brasil,México,Marítimo,Maquinaria,2025-02-03,2025-02-16,5188.4,4660.74,0,A tiempo
+5701,Brasil,Chile,Terrestre,Químicos,2025-08-13,2025-08-23,8088.75,12338.11,0,A tiempo
+5702,Perú,Ecuador,Terrestre,Químicos,2025-05-21,2025-06-06,5461.65,3358.37,9,Retrasado
+5703,España,México,Terrestre,Maquinaria,2025-10-06,2025-11-11,11586.97,28732.6,1,A tiempo
+5704,Colombia,Chile,Aéreo,Maquinaria,2025-07-28,2025-08-20,12839.79,24796.56,10,Retrasado
+5705,Alemania,Colombia,Terrestre,Alimentos,2025-08-14,2025-08-27,12871.12,20591.78,0,A tiempo
+5706,USA,México,Terrestre,Textil,2025-03-03,2025-03-13,13755.94,12281.41,0,A tiempo
+5707,USA,México,Marítimo,Electrónica,2025-07-21,2025-08-10,14090.28,30958.4,4,Retrasado
+5708,México,Perú,Aéreo,Maquinaria,2025-07-18,2025-08-08,3061.79,5100.12,1,A tiempo
+5709,Perú,México,Terrestre,Electrónica,2025-09-27,2025-11-05,10058.79,22455.26,2,A tiempo
+5710,Brasil,Colombia,Aéreo,Electrónica,2025-09-14,2025-10-14,9299.46,18802.9,0,A tiempo
+5711,Perú,Ecuador,Aéreo,Maquinaria,2025-08-16,2025-09-18,3897.21,8225.23,2,A tiempo
+5712,Alemania,Perú,Aéreo,Electrónica,2025-02-28,2025-03-12,11061.6,8732.87,5,Retrasado
+5713,Brasil,Ecuador,Terrestre,Químicos,2025-12-20,2026-01-13,1536.77,3212.08,0,A tiempo
+5714,Brasil,Chile,Terrestre,Alimentos,2025-08-11,2025-09-14,13277.16,13228.85,0,A tiempo
+5715,Perú,México,Aéreo,Textil,2025-03-01,2025-03-15,6555.01,7324.52,0,A tiempo
+5716,China,Ecuador,Marítimo,Alimentos,2025-10-21,2025-11-10,3695.94,7745.49,3,A tiempo
+5717,USA,Perú,Aéreo,Químicos,2025-02-21,2025-03-06,1350.11,2993.97,3,A tiempo
+5718,Alemania,Ecuador,Marítimo,Alimentos,2025-04-09,2025-05-11,1817.15,3473.13,5,Retrasado
+5719,México,Ecuador,Terrestre,Electrónica,2025-07-25,2025-08-14,8691.02,6477.9,3,A tiempo
+5720,Perú,Ecuador,Aéreo,Electrónica,2025-02-25,2025-03-19,19052.74,21429.25,4,Retrasado
+5721,Brasil,Chile,Aéreo,Electrónica,2025-02-01,2025-02-17,5770.99,9899.38,0,A tiempo
+5722,Alemania,Perú,Marítimo,Alimentos,2025-09-06,2025-10-11,3826.73,4177.31,2,A tiempo
+5723,México,Chile,Aéreo,Alimentos,2025-01-16,2025-02-05,17575.13,20758.82,7,Retrasado
+5724,Alemania,Perú,Terrestre,Electrónica,2025-05-08,2025-06-10,86.69,215.71,0,A tiempo
+5725,Alemania,México,Marítimo,Químicos,2025-03-31,2025-04-08,14291.06,32687.67,4,Retrasado
+5726,Perú,Colombia,Terrestre,Maquinaria,2025-12-08,2025-12-11,2095.81,4041.86,0,A tiempo
+5727,Perú,Chile,Marítimo,Textil,2025-07-31,2025-08-04,18469.08,20738.5,11,Retrasado
+5728,USA,Chile,Marítimo,Químicos,2025-01-26,2025-02-19,14523.37,24687.16,5,Retrasado
+5729,Colombia,Colombia,Marítimo,Electrónica,2025-05-30,2025-06-19,14367.9,12040.92,4,Retrasado
+5730,USA,Colombia,Aéreo,Químicos,2025-05-17,2025-06-05,8500.08,17683.93,0,A tiempo
+5731,España,Perú,Marítimo,Químicos,2025-02-23,2025-02-24,16056.03,8511.52,0,A tiempo
+5732,Alemania,Perú,Marítimo,Alimentos,2025-09-25,2025-10-26,19435.43,30901.53,0,A tiempo
+5733,USA,Ecuador,Terrestre,Maquinaria,2025-03-10,2025-03-12,19977.18,48582.97,0,A tiempo
+5734,México,Ecuador,Terrestre,Maquinaria,2025-11-06,2025-12-11,6260.28,9404.28,11,Retrasado
+5735,México,México,Marítimo,Textil,2025-12-09,2025-12-25,12642.02,13986.23,0,A tiempo
+5736,China,Colombia,Aéreo,Alimentos,2025-02-01,2025-02-07,8021.67,13093.27,0,A tiempo
+5737,USA,Colombia,Marítimo,Maquinaria,2025-08-30,2025-09-11,10384.32,19293.82,5,Retrasado
+5738,Alemania,México,Marítimo,Maquinaria,2025-08-17,2025-09-06,9964.75,11177.44,0,A tiempo
+5739,México,Perú,Terrestre,Textil,2025-07-07,2025-08-14,3351.24,1825.84,0,A tiempo
+5740,USA,Ecuador,Aéreo,Textil,2025-08-21,2025-09-14,1942.05,4289.06,5,Retrasado
+5741,China,Ecuador,Aéreo,Químicos,2025-11-27,2025-11-29,14746.86,24672.99,1,A tiempo
+5742,España,Perú,Marítimo,Maquinaria,2025-10-04,2025-10-21,12434.54,15177.6,1,A tiempo
+5743,China,Colombia,Aéreo,Alimentos,2025-08-24,2025-09-14,4325.84,7673.21,2,A tiempo
+5744,España,Ecuador,Aéreo,Químicos,2025-06-06,2025-07-14,10189.24,22256.62,0,A tiempo
+5745,España,Colombia,Terrestre,Electrónica,2025-03-30,2025-04-28,19143.17,17574.12,0,A tiempo
+5746,USA,México,Marítimo,Químicos,2025-03-16,2025-04-22,13544.1,19818.08,0,A tiempo
+5747,Alemania,Ecuador,Aéreo,Maquinaria,2025-03-21,2025-04-11,9001.12,16427.38,0,A tiempo
+5748,España,México,Terrestre,Textil,2025-11-12,2025-11-14,5533.16,8000.21,2,A tiempo
+5749,Perú,Colombia,Marítimo,Alimentos,2025-02-13,2025-02-20,8481.1,12639.41,0,A tiempo
+5750,Alemania,Colombia,Terrestre,Textil,2025-02-12,2025-02-16,9207.18,8329.14,2,A tiempo
+5751,Brasil,México,Terrestre,Electrónica,2025-01-08,2025-01-24,2882.47,3643.45,7,Retrasado
+5752,Alemania,Colombia,Marítimo,Electrónica,2025-09-23,2025-10-26,8408.45,5139.82,6,Retrasado
+5753,España,Chile,Marítimo,Electrónica,2025-01-02,2025-01-20,10849.48,11165.92,0,A tiempo
+5754,México,Ecuador,Aéreo,Alimentos,2025-12-02,2025-12-17,638.16,785.14,9,Retrasado
+5755,Colombia,Colombia,Terrestre,Maquinaria,2025-12-21,2026-01-09,861.32,2084.43,0,A tiempo
+5756,Perú,Perú,Marítimo,Maquinaria,2025-03-27,2025-04-24,11182.5,26075.8,1,A tiempo
+5757,México,Perú,Terrestre,Maquinaria,2025-01-15,2025-01-30,923.36,1941.3,4,Retrasado
+5758,Alemania,México,Marítimo,Electrónica,2025-12-18,2026-01-21,9083.77,4623.4,0,A tiempo
+5759,España,Perú,Aéreo,Textil,2025-03-18,2025-03-29,18386.69,32677.49,0,A tiempo
+5760,España,Colombia,Marítimo,Textil,2025-07-15,2025-08-09,15629.08,36170.73,12,Retrasado
+5761,Colombia,Colombia,Marítimo,Químicos,2025-08-25,2025-09-11,19393.04,35905.12,0,A tiempo
+5762,Colombia,México,Marítimo,Textil,2025-08-05,2025-08-25,11791.93,21960.43,6,Retrasado
+5763,Brasil,Ecuador,Marítimo,Electrónica,2025-11-05,2025-11-12,14304.95,15390.87,0,A tiempo
+5764,México,Ecuador,Terrestre,Químicos,2025-06-26,2025-07-09,8541.25,8894.56,0,A tiempo
+5765,Brasil,Ecuador,Aéreo,Químicos,2025-07-10,2025-08-12,18643.33,42565.69,2,A tiempo
+5766,Alemania,Colombia,Terrestre,Químicos,2025-12-31,2026-01-21,17397.51,13526.72,0,A tiempo
+5767,España,Perú,Marítimo,Textil,2025-07-24,2025-08-19,16150.51,11879.17,0,A tiempo
+5768,Alemania,México,Terrestre,Maquinaria,2025-03-14,2025-03-22,787.96,1319.55,3,A tiempo
+5769,Colombia,Chile,Aéreo,Alimentos,2025-03-03,2025-03-09,11580.3,21133.16,7,Retrasado
+5770,Brasil,Colombia,Aéreo,Maquinaria,2025-11-13,2025-12-02,17012.6,32193.09,9,Retrasado
+5771,Brasil,Colombia,Marítimo,Textil,2025-05-12,2025-05-26,16451.29,30953.44,3,A tiempo
+5772,Alemania,México,Terrestre,Maquinaria,2025-12-12,2026-01-17,1454.64,1924.48,0,A tiempo
+5773,China,Perú,Marítimo,Textil,2025-10-22,2025-11-12,2109.5,1941.25,14,Retrasado
+5774,China,Chile,Marítimo,Electrónica,2025-12-11,2025-12-18,10094.09,6781.36,5,Retrasado
+5775,México,Perú,Aéreo,Químicos,2025-07-25,2025-08-26,17017.38,9906.67,0,A tiempo
+5776,Perú,Chile,Aéreo,Alimentos,2025-01-16,2025-01-22,6553.32,15090.45,14,Retrasado
+5777,España,Perú,Terrestre,Maquinaria,2025-11-07,2025-11-21,1427.14,2825.36,0,A tiempo
+5778,China,Ecuador,Aéreo,Maquinaria,2025-07-31,2025-08-22,6335.95,14259.47,1,A tiempo
+5779,Brasil,Ecuador,Marítimo,Maquinaria,2025-11-13,2025-11-17,15286.8,24143.18,6,Retrasado
+5780,China,Chile,Marítimo,Químicos,2025-04-14,2025-04-18,5714.04,7471.67,0,A tiempo
+5781,Perú,Colombia,Terrestre,Alimentos,2025-11-09,2025-12-16,4773.73,4110.52,0,A tiempo
+5782,México,Ecuador,Marítimo,Maquinaria,2025-03-15,2025-03-24,1426.83,2563.52,5,Retrasado
+5783,España,México,Terrestre,Electrónica,2025-04-13,2025-04-16,12875.74,8156.29,0,A tiempo
+5784,México,México,Aéreo,Alimentos,2025-02-22,2025-03-13,17770.96,19017.24,0,A tiempo
+5785,España,Perú,Aéreo,Electrónica,2025-02-20,2025-03-05,1917.15,3866.84,0,A tiempo
+5786,China,Ecuador,Terrestre,Maquinaria,2025-02-07,2025-03-14,7240.65,15714.62,0,A tiempo
+5787,Alemania,Colombia,Marítimo,Electrónica,2025-07-15,2025-08-13,19708.46,31036.78,8,Retrasado
+5788,Perú,Perú,Marítimo,Maquinaria,2025-09-04,2025-10-12,8995.04,10208.33,1,A tiempo
+5789,Alemania,México,Marítimo,Químicos,2025-03-19,2025-03-21,9222.59,11157.61,2,A tiempo
+5790,USA,Perú,Aéreo,Alimentos,2025-11-30,2025-12-19,15468.91,28611.37,5,Retrasado
+5791,China,Chile,Marítimo,Químicos,2025-02-06,2025-03-01,11327.08,13506.74,0,A tiempo
+5792,Colombia,Perú,Aéreo,Textil,2025-02-09,2025-02-16,3179.94,5443.5,7,Retrasado
+5793,China,Perú,Marítimo,Químicos,2025-11-19,2025-12-05,15449.96,18063.75,0,A tiempo
+5794,China,Colombia,Aéreo,Textil,2025-09-11,2025-09-30,9904.39,5971.11,0,A tiempo
+5795,México,Ecuador,Terrestre,Textil,2025-03-08,2025-04-14,13003.54,25700.82,0,A tiempo
+5796,México,México,Terrestre,Electrónica,2025-12-26,2026-01-12,4887.22,4348.61,3,A tiempo
+5797,España,Perú,Terrestre,Químicos,2025-01-13,2025-01-25,8921.79,21577.57,0,A tiempo
+5798,Perú,Ecuador,Marítimo,Alimentos,2025-02-09,2025-02-19,18800.8,15370.69,0,A tiempo
+5799,España,México,Marítimo,Textil,2025-04-13,2025-05-19,18633.09,32715.48,3,A tiempo
+5800,China,Colombia,Marítimo,Alimentos,2025-09-26,2025-10-05,6473.44,4466.32,1,A tiempo
+5801,China,Perú,Marítimo,Electrónica,2025-09-18,2025-10-13,13972.3,27901.59,2,A tiempo
+5802,Alemania,Ecuador,Aéreo,Maquinaria,2025-10-19,2025-11-01,10814.06,19892.22,2,A tiempo
+5803,Alemania,Perú,Terrestre,Textil,2025-07-18,2025-07-28,16977.82,30900.89,1,A tiempo
+5804,China,Chile,Terrestre,Maquinaria,2025-08-07,2025-08-26,17866.42,22919.7,0,A tiempo
+5805,USA,Ecuador,Terrestre,Electrónica,2025-05-06,2025-06-02,12055.84,6706.4,0,A tiempo
+5806,USA,Perú,Aéreo,Químicos,2025-05-21,2025-06-09,11729.06,11331.33,0,A tiempo
+5807,China,Chile,Terrestre,Alimentos,2025-02-05,2025-02-08,7828.79,12582.6,1,A tiempo
+5808,Perú,Perú,Terrestre,Textil,2025-02-13,2025-03-11,16495.79,35339.36,10,Retrasado
+5809,Colombia,Perú,Marítimo,Textil,2025-09-12,2025-10-02,14623.97,30259.75,0,A tiempo
+5810,España,Perú,Aéreo,Químicos,2025-01-10,2025-02-11,7948.87,13129.24,5,Retrasado
+5811,México,México,Marítimo,Maquinaria,2025-06-15,2025-07-14,5922.64,10978.36,6,Retrasado
+5812,México,Perú,Terrestre,Maquinaria,2025-08-30,2025-10-05,9263.28,14559.35,3,A tiempo
+5813,Alemania,México,Aéreo,Alimentos,2025-06-26,2025-06-27,14685.93,27533.08,1,A tiempo
+5814,México,Perú,Aéreo,Alimentos,2025-01-26,2025-02-15,7254.58,7718.09,0,A tiempo
+5815,España,México,Aéreo,Maquinaria,2025-10-08,2025-11-06,11762.66,10691.47,0,A tiempo
+5816,Perú,Perú,Marítimo,Electrónica,2025-06-23,2025-07-03,18178.03,25139.39,11,Retrasado
+5817,Perú,Chile,Marítimo,Textil,2025-04-17,2025-05-20,1900.27,2143.43,8,Retrasado
+5818,Perú,Colombia,Aéreo,Textil,2025-03-04,2025-03-16,13461.14,12520.73,6,Retrasado
+5819,Brasil,Colombia,Marítimo,Químicos,2025-08-13,2025-09-04,4254.41,10495.96,0,A tiempo
+5820,Colombia,Ecuador,Terrestre,Químicos,2025-12-04,2025-12-19,11793.73,25453.53,0,A tiempo
+5821,España,Perú,Aéreo,Electrónica,2025-04-07,2025-05-09,13540.43,29127.3,3,A tiempo
+5822,México,Ecuador,Terrestre,Textil,2025-11-16,2025-11-30,12303.08,23999.73,0,A tiempo
+5823,México,Chile,Terrestre,Químicos,2025-08-31,2025-10-01,4957.23,5252.57,3,A tiempo
+5824,Alemania,México,Marítimo,Químicos,2025-01-07,2025-02-02,805.86,916.71,3,A tiempo
+5825,Brasil,Perú,Aéreo,Electrónica,2025-11-07,2025-12-11,16269.75,29362.87,2,A tiempo
+5826,México,Chile,Terrestre,Textil,2025-05-25,2025-06-25,17579.5,31707.85,4,Retrasado
+5827,España,Ecuador,Marítimo,Electrónica,2025-11-05,2025-11-15,3620.92,2252.86,5,Retrasado
+5828,México,Perú,Aéreo,Textil,2025-03-14,2025-03-22,10572.46,21926.76,9,Retrasado
+5829,USA,Colombia,Marítimo,Textil,2025-07-09,2025-07-24,18672.75,45870.89,12,Retrasado
+5830,México,Chile,Terrestre,Químicos,2025-03-16,2025-04-09,8935.9,7482.17,0,A tiempo
+5831,Perú,Perú,Terrestre,Químicos,2025-06-28,2025-06-29,19197.58,13819.56,14,Retrasado
+5832,México,Chile,Aéreo,Alimentos,2025-12-03,2025-12-30,7388.21,6316.22,4,Retrasado
+5833,USA,Perú,Terrestre,Electrónica,2025-07-04,2025-08-10,18330.08,9940.46,0,A tiempo
+5834,Alemania,Ecuador,Terrestre,Maquinaria,2025-12-29,2026-01-01,15384.09,33588.95,2,A tiempo
+5835,España,Perú,Terrestre,Maquinaria,2025-04-09,2025-04-28,430.09,221.1,0,A tiempo
+5836,Alemania,Colombia,Aéreo,Alimentos,2025-08-09,2025-09-07,1064.3,1475.39,6,Retrasado
+5837,Brasil,Chile,Terrestre,Electrónica,2025-12-19,2025-12-29,3743.33,8825.32,8,Retrasado
+5838,USA,Ecuador,Terrestre,Textil,2025-10-03,2025-10-06,14898.38,11100.51,0,A tiempo
+5839,México,Chile,Marítimo,Químicos,2025-09-10,2025-10-01,8515.24,9947.31,0,A tiempo
+5840,España,Chile,Marítimo,Electrónica,2025-09-29,2025-10-16,13284.3,20449.35,6,Retrasado
+5841,México,Ecuador,Terrestre,Químicos,2025-05-01,2025-05-11,3033.43,2541.07,0,A tiempo
+5842,Perú,México,Terrestre,Textil,2025-04-17,2025-05-22,18129.28,43432.21,0,A tiempo
+5843,Colombia,Perú,Marítimo,Químicos,2025-02-22,2025-03-30,12755.01,22148.55,0,A tiempo
+5844,USA,Perú,Aéreo,Maquinaria,2025-08-09,2025-09-13,12570.46,26781.84,3,A tiempo
+5845,Brasil,Colombia,Marítimo,Electrónica,2025-12-03,2025-12-31,19680.61,48679.75,1,A tiempo
+5846,USA,Perú,Terrestre,Químicos,2025-10-07,2025-11-10,2815.7,6242.74,0,A tiempo
+5847,Colombia,Colombia,Aéreo,Alimentos,2025-12-26,2026-01-07,4544.75,5558.56,0,A tiempo
+5848,USA,México,Aéreo,Electrónica,2025-12-29,2026-01-26,11752.29,22233.83,4,Retrasado
+5849,Colombia,Perú,Marítimo,Maquinaria,2025-06-08,2025-06-09,2917.03,4519.03,0,A tiempo
+5850,China,Perú,Terrestre,Maquinaria,2025-07-08,2025-08-05,12837.2,29353.03,0,A tiempo
+5851,Colombia,Ecuador,Aéreo,Maquinaria,2025-10-28,2025-11-23,12318.57,9972.48,2,A tiempo
+5852,México,Colombia,Marítimo,Electrónica,2025-10-07,2025-10-24,10643.46,16475.96,0,A tiempo
+5853,Colombia,Colombia,Terrestre,Químicos,2025-10-10,2025-11-09,8635.3,18877.36,0,A tiempo
+5854,Alemania,Ecuador,Terrestre,Químicos,2025-07-23,2025-08-07,16652.67,27931.32,0,A tiempo
+5855,España,Perú,Aéreo,Alimentos,2025-08-03,2025-08-19,15571.85,31812.61,3,A tiempo
+5856,Perú,Chile,Terrestre,Textil,2025-11-04,2025-11-07,12179.44,30062.38,7,Retrasado
+5857,España,Perú,Marítimo,Alimentos,2025-12-11,2026-01-01,14484.54,25071.04,3,A tiempo
+5858,España,Ecuador,Terrestre,Electrónica,2025-10-11,2025-10-17,10488.51,24666.58,0,A tiempo
+5859,España,Perú,Marítimo,Alimentos,2025-10-09,2025-11-17,2851.95,6752.08,0,A tiempo
+5860,México,Perú,Aéreo,Químicos,2025-02-27,2025-03-08,3189.81,6716.69,3,A tiempo
+5861,Perú,Ecuador,Marítimo,Químicos,2025-11-09,2025-12-06,5792.13,7791.57,0,A tiempo
+5862,USA,México,Aéreo,Electrónica,2025-12-11,2026-01-16,14092.9,10429.63,2,A tiempo
+5863,Perú,México,Terrestre,Químicos,2025-04-10,2025-04-26,2712.18,1625.58,0,A tiempo
+5864,USA,Ecuador,Marítimo,Textil,2025-03-11,2025-03-14,10547.69,14103.85,3,A tiempo
+5865,España,Colombia,Marítimo,Maquinaria,2025-03-02,2025-03-10,18021.39,44938.17,2,A tiempo
+5866,España,Perú,Aéreo,Alimentos,2025-01-09,2025-01-22,15979.08,20113.56,3,A tiempo
+5867,España,Perú,Aéreo,Electrónica,2025-05-29,2025-06-22,14222.17,11117.7,4,Retrasado
+5868,Alemania,México,Aéreo,Alimentos,2025-03-07,2025-04-13,4310.07,2811.43,0,A tiempo
+5869,USA,Colombia,Terrestre,Maquinaria,2025-02-16,2025-03-22,14931.53,13556.86,10,Retrasado
+5870,España,Colombia,Marítimo,Electrónica,2025-09-24,2025-10-02,1549.64,2201.4,0,A tiempo
+5871,China,México,Aéreo,Químicos,2025-10-06,2025-10-21,9743.4,10146.32,2,A tiempo
+5872,Brasil,México,Terrestre,Maquinaria,2025-09-14,2025-09-22,11546.77,16141.95,5,Retrasado
+5873,USA,Perú,Terrestre,Químicos,2025-09-01,2025-09-05,14598.04,22710.96,1,A tiempo
+5874,Colombia,Chile,Terrestre,Químicos,2025-07-08,2025-07-16,11022.73,9186.24,2,A tiempo
+5875,España,Ecuador,Marítimo,Alimentos,2025-01-23,2025-02-16,10997.16,16165.8,0,A tiempo
+5876,China,Perú,Terrestre,Textil,2025-12-23,2026-01-06,8096.81,12051.85,4,Retrasado
+5877,México,Perú,Terrestre,Maquinaria,2025-12-26,2026-01-21,17006.57,35437.87,5,Retrasado
+5878,Colombia,Perú,Marítimo,Químicos,2025-11-19,2025-11-20,3096.97,6148.65,5,Retrasado
+5879,México,Chile,Marítimo,Químicos,2025-10-06,2025-10-18,8163.31,16779.8,1,A tiempo
+5880,Colombia,Ecuador,Aéreo,Electrónica,2025-10-07,2025-10-08,5342.85,9336.47,9,Retrasado
+5881,China,Perú,Aéreo,Químicos,2025-08-06,2025-09-10,4867.17,3913.32,2,A tiempo
+5882,Perú,Perú,Marítimo,Textil,2025-02-11,2025-03-18,6573.32,10370.35,5,Retrasado
+5883,Perú,México,Marítimo,Maquinaria,2025-10-27,2025-11-03,13745.55,20056.0,0,A tiempo
+5884,China,México,Terrestre,Químicos,2025-09-05,2025-09-10,3575.46,7141.14,0,A tiempo
+5885,USA,Perú,Aéreo,Electrónica,2025-01-29,2025-02-07,18092.8,39271.15,6,Retrasado
+5886,Perú,Perú,Terrestre,Electrónica,2025-08-10,2025-08-27,18473.53,26666.65,10,Retrasado
+5887,Brasil,Colombia,Terrestre,Alimentos,2025-03-10,2025-04-17,7385.18,12641.77,5,Retrasado
+5888,Colombia,México,Aéreo,Maquinaria,2025-07-23,2025-08-13,6125.17,5061.87,1,A tiempo
+5889,México,Colombia,Aéreo,Químicos,2025-04-02,2025-04-20,14360.97,27812.79,6,Retrasado
+5890,Colombia,Ecuador,Terrestre,Químicos,2025-08-22,2025-08-30,11487.27,20151.86,0,A tiempo
+5891,México,Chile,Marítimo,Maquinaria,2025-10-11,2025-10-25,1515.47,3383.3,0,A tiempo
+5892,China,Colombia,Aéreo,Textil,2025-01-19,2025-01-21,17325.41,19468.06,0,A tiempo
+5893,Brasil,Ecuador,Aéreo,Maquinaria,2025-01-27,2025-02-20,18300.87,20493.29,0,A tiempo
+5894,México,Colombia,Marítimo,Alimentos,2025-12-31,2026-01-01,2608.82,3382.78,0,A tiempo
+5895,Colombia,Ecuador,Marítimo,Alimentos,2025-09-07,2025-09-27,16112.01,38272.49,0,A tiempo
+5896,España,Colombia,Terrestre,Alimentos,2025-04-23,2025-05-18,8445.46,20185.68,0,A tiempo
+5897,China,Chile,Marítimo,Alimentos,2025-03-28,2025-04-23,1084.92,2255.0,6,Retrasado
+5898,España,Ecuador,Marítimo,Químicos,2025-06-02,2025-07-10,931.32,486.22,2,A tiempo
+5899,España,Perú,Terrestre,Alimentos,2025-12-12,2025-12-13,16603.42,15107.21,0,A tiempo
+5900,USA,Colombia,Terrestre,Electrónica,2025-09-09,2025-10-14,3839.83,6531.29,1,A tiempo
+5901,Perú,Perú,Aéreo,Maquinaria,2025-12-29,2026-01-30,17937.42,14405.87,3,A tiempo
+5902,USA,Ecuador,Marítimo,Químicos,2025-07-20,2025-08-14,3468.41,6978.18,0,A tiempo
+5903,Perú,México,Aéreo,Alimentos,2025-06-04,2025-06-30,12181.69,20264.9,4,Retrasado
+5904,Alemania,Ecuador,Marítimo,Químicos,2025-03-16,2025-04-02,1841.49,3637.2,6,Retrasado
+5905,Alemania,México,Marítimo,Electrónica,2025-07-16,2025-07-22,13253.14,26993.94,0,A tiempo
+5906,México,Chile,Marítimo,Químicos,2025-08-24,2025-08-29,1709.46,3639.91,3,A tiempo
+5907,USA,Chile,Marítimo,Maquinaria,2025-07-08,2025-07-09,8973.34,18987.2,5,Retrasado
+5908,China,Perú,Marítimo,Maquinaria,2025-02-18,2025-03-28,17561.48,18456.83,4,Retrasado
+5909,España,Colombia,Marítimo,Electrónica,2025-03-03,2025-03-22,3243.3,3407.89,5,Retrasado
+5910,China,Perú,Terrestre,Textil,2025-10-15,2025-10-25,2490.51,3476.06,0,A tiempo
+5911,Perú,Perú,Marítimo,Alimentos,2025-03-20,2025-04-13,9993.24,7438.75,3,A tiempo
+5912,Alemania,Ecuador,Aéreo,Textil,2025-02-08,2025-03-09,14531.9,16554.04,11,Retrasado
+5913,Brasil,México,Marítimo,Electrónica,2025-03-01,2025-03-12,14229.29,27591.28,0,A tiempo
+5914,Perú,Ecuador,Aéreo,Electrónica,2025-11-25,2025-12-18,8816.92,9071.86,0,A tiempo
+5915,México,Perú,Marítimo,Químicos,2025-08-16,2025-09-05,5781.78,7988.58,3,A tiempo
+5916,USA,Chile,Marítimo,Químicos,2025-10-09,2025-11-06,7378.77,17324.42,0,A tiempo
+5917,México,Ecuador,Aéreo,Textil,2025-03-25,2025-04-16,5608.65,12299.0,0,A tiempo
+5918,España,Ecuador,Terrestre,Químicos,2025-08-18,2025-09-11,15496.29,19848.13,0,A tiempo
+5919,Brasil,Colombia,Terrestre,Maquinaria,2025-03-12,2025-04-08,1699.63,1494.89,14,Retrasado
+5920,España,México,Marítimo,Textil,2025-07-10,2025-08-07,4699.45,2854.62,0,A tiempo
+5921,México,Colombia,Terrestre,Químicos,2025-01-27,2025-03-01,3070.57,7258.06,8,Retrasado
+5922,Alemania,Colombia,Terrestre,Maquinaria,2025-07-08,2025-07-13,3720.86,4802.32,0,A tiempo
+5923,Brasil,Ecuador,Terrestre,Alimentos,2025-03-25,2025-04-14,2921.59,7043.97,0,A tiempo
+5924,España,Colombia,Marítimo,Textil,2025-03-22,2025-04-07,9142.05,19914.17,4,Retrasado
+5925,China,Ecuador,Marítimo,Maquinaria,2025-07-01,2025-07-17,372.08,690.9,2,A tiempo
+5926,Perú,Perú,Marítimo,Textil,2025-07-28,2025-08-21,16080.68,18635.54,0,A tiempo
+5927,Colombia,Colombia,Aéreo,Textil,2025-09-14,2025-10-10,19256.88,33937.87,5,Retrasado
+5928,Colombia,Chile,Aéreo,Maquinaria,2025-04-22,2025-05-22,3032.27,3648.96,0,A tiempo
+5929,Brasil,Colombia,Marítimo,Electrónica,2025-04-16,2025-04-27,4231.99,10339.27,2,A tiempo
+5930,Colombia,Ecuador,Terrestre,Alimentos,2025-01-31,2025-03-07,19058.65,36462.95,6,Retrasado
+5931,Brasil,Ecuador,Aéreo,Electrónica,2025-04-26,2025-05-07,11230.5,10976.31,9,Retrasado
+5932,USA,Ecuador,Terrestre,Maquinaria,2025-05-07,2025-05-08,1363.34,3073.5,4,Retrasado
+5933,Alemania,Ecuador,Terrestre,Químicos,2025-06-30,2025-07-16,17845.46,30787.71,8,Retrasado
+5934,Brasil,Perú,Marítimo,Textil,2025-06-01,2025-06-06,11688.47,10323.98,1,A tiempo
+5935,Perú,Perú,Marítimo,Textil,2025-09-12,2025-09-16,16382.02,26760.1,0,A tiempo
+5936,México,Perú,Aéreo,Maquinaria,2025-06-15,2025-06-18,13782.55,27873.99,3,A tiempo
+5937,México,Perú,Aéreo,Maquinaria,2025-11-03,2025-11-10,1530.82,2810.46,2,A tiempo
+5938,China,Ecuador,Terrestre,Maquinaria,2025-07-13,2025-08-16,8035.25,13277.45,0,A tiempo
+5939,México,Chile,Marítimo,Maquinaria,2025-08-03,2025-08-31,8236.63,7733.18,1,A tiempo
+5940,Alemania,Chile,Marítimo,Textil,2025-09-12,2025-10-19,19874.23,18940.36,2,A tiempo
+5941,China,Perú,Marítimo,Alimentos,2025-09-04,2025-10-06,1849.87,3450.58,0,A tiempo
+5942,México,Colombia,Marítimo,Maquinaria,2025-12-07,2025-12-18,7511.11,6214.61,0,A tiempo
+5943,Colombia,Chile,Terrestre,Electrónica,2025-09-28,2025-11-05,19115.05,32793.05,2,A tiempo
+5944,USA,Colombia,Aéreo,Maquinaria,2025-12-15,2026-01-02,19091.87,40401.37,8,Retrasado
+5945,México,Colombia,Aéreo,Textil,2025-05-05,2025-06-03,1543.15,3164.77,6,Retrasado
+5946,España,Colombia,Aéreo,Maquinaria,2025-12-22,2026-01-25,4020.78,4157.86,0,A tiempo
+5947,Colombia,Chile,Aéreo,Alimentos,2025-08-07,2025-08-10,1689.0,1574.07,6,Retrasado
+5948,Perú,México,Terrestre,Textil,2025-04-24,2025-05-26,15906.46,10291.81,0,A tiempo
+5949,USA,Chile,Terrestre,Químicos,2025-02-20,2025-03-27,19104.08,22581.59,0,A tiempo
+5950,México,México,Aéreo,Textil,2025-07-08,2025-08-02,6294.65,10447.92,9,Retrasado
+5951,Perú,México,Terrestre,Electrónica,2025-12-18,2026-01-16,2699.79,2323.86,11,Retrasado
+5952,Brasil,Ecuador,Aéreo,Químicos,2025-11-04,2025-11-22,11293.96,25022.34,2,A tiempo
+5953,Alemania,Colombia,Aéreo,Electrónica,2025-09-30,2025-11-07,2989.38,1871.53,6,Retrasado
+5954,China,Colombia,Marítimo,Químicos,2025-01-20,2025-02-18,13131.92,31918.91,0,A tiempo
+5955,España,Perú,Marítimo,Electrónica,2025-10-10,2025-10-11,12773.78,19560.67,0,A tiempo
+5956,España,Ecuador,Terrestre,Alimentos,2025-09-09,2025-09-21,13747.62,25012.45,0,A tiempo
+5957,Brasil,México,Marítimo,Químicos,2025-11-02,2025-11-12,14700.02,36179.18,0,A tiempo
+5958,México,México,Marítimo,Químicos,2025-02-08,2025-03-19,17090.35,9286.95,0,A tiempo
+5959,España,Colombia,Terrestre,Químicos,2025-05-24,2025-06-17,12527.18,16650.32,0,A tiempo
+5960,México,Chile,Terrestre,Electrónica,2025-05-04,2025-05-26,2957.11,3557.29,8,Retrasado
+5961,China,Colombia,Aéreo,Químicos,2025-10-09,2025-10-23,6157.73,9506.78,0,A tiempo
+5962,USA,México,Aéreo,Químicos,2025-10-05,2025-10-07,1656.76,2773.15,7,Retrasado
+5963,China,Colombia,Terrestre,Electrónica,2025-07-02,2025-08-06,10366.18,5306.09,0,A tiempo
+5964,Perú,Chile,Terrestre,Alimentos,2025-05-13,2025-06-19,3586.53,4047.72,6,Retrasado
+5965,Perú,Colombia,Aéreo,Textil,2025-02-07,2025-02-12,19205.28,32842.09,0,A tiempo
+5966,Perú,México,Terrestre,Químicos,2025-02-25,2025-03-02,12296.96,7817.06,4,Retrasado
+5967,México,Perú,Terrestre,Electrónica,2025-01-04,2025-02-06,1132.82,2189.36,2,A tiempo
+5968,Colombia,México,Marítimo,Maquinaria,2025-10-10,2025-10-22,10848.91,13538.37,1,A tiempo
+5969,China,Colombia,Terrestre,Alimentos,2025-12-02,2026-01-01,13311.86,11761.17,0,A tiempo
+5970,USA,Perú,Aéreo,Químicos,2025-01-13,2025-02-09,10434.3,14847.0,0,A tiempo
+5971,España,México,Terrestre,Químicos,2025-10-18,2025-10-22,543.81,821.44,5,Retrasado
+5972,México,Chile,Aéreo,Químicos,2025-04-11,2025-05-08,11318.01,18592.06,2,A tiempo
+5973,España,Chile,Marítimo,Maquinaria,2025-07-07,2025-08-09,15692.35,35507.78,3,A tiempo
+5974,Perú,México,Marítimo,Maquinaria,2025-09-10,2025-10-03,11187.72,14177.19,0,A tiempo
+5975,China,Chile,Terrestre,Químicos,2025-05-03,2025-05-15,17168.48,11736.06,2,A tiempo
+5976,España,Perú,Aéreo,Alimentos,2025-12-25,2026-01-09,6379.24,15193.97,8,Retrasado
+5977,Alemania,Ecuador,Terrestre,Textil,2025-12-26,2026-01-29,6018.21,10758.93,3,A tiempo
+5978,USA,México,Aéreo,Maquinaria,2025-09-03,2025-09-20,5616.58,10886.85,0,A tiempo
+5979,Alemania,Colombia,Terrestre,Químicos,2025-12-26,2025-12-29,10099.58,17941.96,7,Retrasado
+5980,Brasil,México,Marítimo,Electrónica,2025-02-12,2025-02-26,13527.55,12734.72,0,A tiempo
+5981,España,México,Terrestre,Químicos,2025-01-05,2025-01-17,19657.53,31354.36,9,Retrasado
+5982,Alemania,Chile,Aéreo,Químicos,2025-11-07,2025-11-23,7583.86,9574.64,1,A tiempo
+5983,Brasil,Chile,Terrestre,Alimentos,2025-09-10,2025-09-24,19430.68,32493.61,4,Retrasado
+5984,USA,Colombia,Aéreo,Textil,2025-04-24,2025-04-27,2942.08,4712.3,2,A tiempo
+5985,China,Perú,Terrestre,Maquinaria,2025-07-11,2025-07-20,3696.47,8469.81,0,A tiempo
+5986,USA,Perú,Terrestre,Electrónica,2025-05-26,2025-06-25,11513.08,14327.62,0,A tiempo
+5987,Colombia,México,Aéreo,Alimentos,2025-06-15,2025-06-24,13509.42,27174.17,0,A tiempo
+5988,Perú,Chile,Marítimo,Alimentos,2025-07-28,2025-07-31,7455.87,9213.92,14,Retrasado
+5989,USA,Perú,Marítimo,Alimentos,2025-07-08,2025-07-25,9010.87,6882.84,0,A tiempo
+5990,USA,Ecuador,Marítimo,Alimentos,2025-08-13,2025-08-21,13440.37,24665.62,9,Retrasado
+5991,México,Chile,Terrestre,Alimentos,2025-05-02,2025-05-11,8498.79,10060.5,4,Retrasado
+5992,Colombia,Perú,Aéreo,Alimentos,2025-07-25,2025-08-24,5584.99,6984.8,2,A tiempo
+5993,España,Chile,Terrestre,Textil,2025-11-12,2025-12-02,4680.98,3270.9,14,Retrasado
+5994,Perú,Perú,Aéreo,Textil,2025-05-12,2025-05-16,4368.74,6547.91,0,A tiempo
+5995,España,Chile,Marítimo,Electrónica,2025-04-13,2025-05-09,14009.9,28869.36,1,A tiempo
+5996,Colombia,México,Terrestre,Alimentos,2025-06-28,2025-07-02,10750.66,25230.22,0,A tiempo
+5997,México,Perú,Terrestre,Maquinaria,2025-04-28,2025-05-26,18703.94,16899.73,0,A tiempo
+5998,España,Perú,Marítimo,Alimentos,2025-11-26,2025-12-05,2576.67,4291.98,3,A tiempo
+5999,USA,Chile,Aéreo,Electrónica,2025-08-10,2025-09-07,9349.5,17111.34,2,A tiempo
+6000,España,México,Terrestre,Electrónica,2025-09-28,2025-10-27,18367.09,33146.56,3,A tiempo
+6001,Perú,México,Marítimo,Electrónica,2025-01-12,2025-02-03,12830.55,12725.61,6,Retrasado
+6002,Perú,Colombia,Aéreo,Electrónica,2025-02-05,2025-02-12,10265.56,25186.07,0,A tiempo
+6003,Perú,Colombia,Terrestre,Maquinaria,2025-05-28,2025-05-31,8778.87,20877.87,0,A tiempo
+6004,México,Ecuador,Marítimo,Químicos,2025-06-02,2025-06-28,9875.9,6595.05,5,Retrasado
+6005,Colombia,Colombia,Terrestre,Textil,2025-01-25,2025-02-12,14001.28,29955.25,0,A tiempo
+6006,España,Perú,Aéreo,Electrónica,2025-10-17,2025-11-08,12062.21,29658.33,8,Retrasado
+6007,México,Chile,Marítimo,Maquinaria,2025-07-25,2025-09-02,5038.99,5703.18,0,A tiempo
+6008,México,Ecuador,Terrestre,Textil,2025-07-02,2025-08-06,18918.75,18409.1,3,A tiempo
+6009,USA,Colombia,Marítimo,Electrónica,2025-09-04,2025-10-04,3505.34,4816.08,14,Retrasado
+6010,USA,Colombia,Marítimo,Alimentos,2025-09-10,2025-09-30,72.84,173.68,1,A tiempo
+6011,Colombia,Ecuador,Marítimo,Electrónica,2025-05-01,2025-05-11,11451.76,11337.01,0,A tiempo
+6012,Perú,Colombia,Aéreo,Alimentos,2025-06-23,2025-07-15,17973.84,28986.95,0,A tiempo
+6013,Brasil,Colombia,Marítimo,Electrónica,2025-08-01,2025-08-18,2813.7,5604.64,7,Retrasado
+6014,Colombia,Colombia,Aéreo,Textil,2025-01-02,2025-01-10,16652.15,28152.42,0,A tiempo
+6015,China,Ecuador,Marítimo,Químicos,2025-02-21,2025-02-24,3315.58,4095.1,0,A tiempo
+6016,Perú,Perú,Marítimo,Maquinaria,2025-05-23,2025-06-06,7493.31,12106.37,7,Retrasado
+6017,Perú,Ecuador,Terrestre,Alimentos,2025-01-17,2025-02-02,5551.8,10269.36,5,Retrasado
+6018,Perú,Ecuador,Aéreo,Químicos,2025-01-20,2025-02-14,10697.85,23515.26,3,A tiempo
+6019,Brasil,Colombia,Aéreo,Maquinaria,2025-07-07,2025-07-27,18093.38,32266.27,2,A tiempo
+6020,España,Perú,Aéreo,Alimentos,2025-08-13,2025-08-23,16209.64,8143.03,3,A tiempo
+6021,China,Chile,Marítimo,Maquinaria,2025-03-30,2025-04-18,19774.12,48445.59,0,A tiempo
+6022,Colombia,México,Aéreo,Alimentos,2025-11-23,2025-11-24,5717.91,10921.43,0,A tiempo
+6023,Colombia,Chile,Terrestre,Maquinaria,2025-10-23,2025-11-21,1873.0,4537.59,12,Retrasado
+6024,USA,Colombia,Aéreo,Electrónica,2025-11-10,2025-11-25,1403.98,1760.54,0,A tiempo
+6025,China,Chile,Terrestre,Maquinaria,2025-06-16,2025-06-22,12924.86,10733.34,6,Retrasado
+6026,España,Perú,Aéreo,Textil,2025-10-25,2025-11-20,19172.7,31018.6,4,Retrasado
+6027,Colombia,Perú,Terrestre,Electrónica,2025-09-02,2025-09-11,9352.46,21635.92,0,A tiempo
+6028,Colombia,Colombia,Marítimo,Alimentos,2025-02-04,2025-02-09,4358.61,7523.24,0,A tiempo
+6029,España,Perú,Marítimo,Químicos,2025-01-05,2025-01-24,4055.22,6559.01,0,A tiempo
+6030,Colombia,Colombia,Aéreo,Maquinaria,2025-12-10,2025-12-26,19292.58,40962.23,1,A tiempo
+6031,Perú,Colombia,Marítimo,Químicos,2025-07-16,2025-07-25,6498.09,13822.78,7,Retrasado
+6032,México,Ecuador,Terrestre,Electrónica,2025-09-25,2025-10-22,19118.31,28919.77,0,A tiempo
+6033,Perú,Chile,Aéreo,Maquinaria,2025-03-01,2025-04-04,7555.31,5854.57,0,A tiempo
+6034,China,Ecuador,Marítimo,Electrónica,2025-09-12,2025-10-08,14534.82,15190.68,0,A tiempo
+6035,Colombia,Colombia,Aéreo,Textil,2025-08-26,2025-09-30,12401.9,10880.28,3,A tiempo
+6036,Alemania,México,Terrestre,Maquinaria,2025-11-26,2025-12-12,4554.68,9722.83,7,Retrasado
+6037,España,México,Aéreo,Químicos,2025-04-21,2025-04-29,17211.21,34816.09,8,Retrasado
+6038,Alemania,Colombia,Aéreo,Alimentos,2025-05-13,2025-06-15,5936.2,7135.46,9,Retrasado
+6039,Colombia,México,Marítimo,Electrónica,2025-08-13,2025-09-21,19894.92,15921.86,1,A tiempo
+6040,Brasil,Chile,Terrestre,Textil,2025-11-18,2025-12-03,9275.14,10072.54,0,A tiempo
+6041,Perú,Ecuador,Terrestre,Electrónica,2025-04-09,2025-04-18,4500.02,2921.96,6,Retrasado
+6042,México,Chile,Marítimo,Químicos,2025-02-04,2025-02-22,273.62,660.22,3,A tiempo
+6043,China,Perú,Terrestre,Químicos,2025-04-29,2025-04-30,17101.77,37882.93,0,A tiempo
+6044,México,Ecuador,Aéreo,Maquinaria,2025-08-22,2025-09-17,14610.05,7338.05,0,A tiempo
+6045,México,Ecuador,Marítimo,Químicos,2025-12-31,2026-01-03,7325.5,5700.23,0,A tiempo
+6046,USA,Chile,Aéreo,Electrónica,2025-03-05,2025-04-05,6386.92,7303.46,0,A tiempo
+6047,México,Ecuador,Marítimo,Electrónica,2025-10-24,2025-11-18,6518.54,5013.37,7,Retrasado
+6048,Perú,Colombia,Marítimo,Maquinaria,2025-03-24,2025-04-08,6024.46,13358.36,0,A tiempo
+6049,Brasil,Chile,Aéreo,Textil,2025-07-07,2025-07-11,8722.93,17086.1,0,A tiempo
+6050,Perú,México,Marítimo,Textil,2025-10-01,2025-11-05,9895.29,9662.93,3,A tiempo
+6051,Alemania,Chile,Marítimo,Químicos,2025-02-09,2025-02-22,5472.74,9839.01,8,Retrasado
+6052,China,México,Aéreo,Alimentos,2025-10-19,2025-11-21,766.72,651.54,0,A tiempo
+6053,USA,Chile,Marítimo,Textil,2025-01-29,2025-02-20,5166.98,6162.66,0,A tiempo
+6054,Alemania,Colombia,Aéreo,Alimentos,2025-04-29,2025-05-16,13789.49,22493.96,6,Retrasado
+6055,Colombia,Perú,Terrestre,Textil,2025-01-13,2025-02-09,2161.36,2525.59,0,A tiempo
+6056,Colombia,Colombia,Terrestre,Alimentos,2025-11-04,2025-11-24,1455.16,728.0,7,Retrasado
+6057,Perú,Colombia,Aéreo,Electrónica,2025-08-08,2025-09-04,404.77,570.76,3,A tiempo
+6058,USA,Perú,Marítimo,Químicos,2025-03-02,2025-03-05,15341.98,10725.39,2,A tiempo
+6059,China,México,Aéreo,Químicos,2025-02-12,2025-02-20,14716.74,10495.61,0,A tiempo
+6060,USA,Colombia,Terrestre,Alimentos,2025-06-23,2025-07-08,8539.63,14319.69,4,Retrasado
+6061,USA,Perú,Aéreo,Químicos,2025-01-03,2025-01-06,3297.96,7958.61,0,A tiempo
+6062,Brasil,Perú,Aéreo,Textil,2025-10-17,2025-11-15,3791.55,5915.31,3,A tiempo
+6063,Colombia,Chile,Terrestre,Textil,2025-12-20,2026-01-18,11282.69,8963.42,10,Retrasado
+6064,Colombia,Ecuador,Aéreo,Maquinaria,2025-01-13,2025-02-15,16033.48,18276.01,0,A tiempo
+6065,Alemania,Chile,Aéreo,Maquinaria,2025-08-02,2025-09-04,18482.17,12049.31,6,Retrasado
+6066,Brasil,Ecuador,Aéreo,Electrónica,2025-08-12,2025-08-18,1606.79,3277.88,0,A tiempo
+6067,Colombia,Colombia,Aéreo,Alimentos,2025-01-04,2025-02-03,5369.83,7426.11,5,Retrasado
+6068,Brasil,Chile,Aéreo,Maquinaria,2025-10-07,2025-10-16,13519.02,19504.53,0,A tiempo
+6069,China,Colombia,Terrestre,Textil,2025-04-05,2025-04-20,3392.28,3971.75,0,A tiempo
+6070,Brasil,Perú,Marítimo,Electrónica,2025-08-27,2025-08-28,14701.99,18272.47,0,A tiempo
+6071,Colombia,Chile,Aéreo,Alimentos,2025-03-18,2025-03-24,15865.37,18719.11,4,Retrasado
+6072,Perú,México,Terrestre,Alimentos,2025-02-02,2025-02-28,6654.61,14750.4,2,A tiempo
+6073,México,Perú,Aéreo,Alimentos,2025-04-02,2025-04-04,8081.18,11693.77,3,A tiempo
+6074,Perú,México,Terrestre,Químicos,2025-11-17,2025-12-13,17551.52,10180.64,10,Retrasado
+6075,USA,México,Aéreo,Maquinaria,2025-10-05,2025-10-14,10452.45,14918.12,4,Retrasado
+6076,China,Ecuador,Marítimo,Maquinaria,2025-06-29,2025-07-05,11866.37,29140.34,1,A tiempo
+6077,México,México,Aéreo,Químicos,2025-02-12,2025-03-22,1729.75,4222.36,7,Retrasado
+6078,China,Chile,Marítimo,Químicos,2025-03-18,2025-04-18,1058.88,2359.19,0,A tiempo
+6079,Colombia,Colombia,Aéreo,Textil,2025-12-18,2026-01-25,12107.84,24740.67,0,A tiempo
+6080,España,México,Marítimo,Textil,2025-02-21,2025-04-01,16837.22,27544.59,3,A tiempo
+6081,México,Ecuador,Terrestre,Alimentos,2025-04-15,2025-04-29,16612.18,33251.55,0,A tiempo
+6082,Brasil,México,Terrestre,Químicos,2025-07-22,2025-07-29,7132.8,6171.69,0,A tiempo
+6083,México,Colombia,Aéreo,Alimentos,2025-05-16,2025-06-20,3634.95,8340.77,7,Retrasado
+6084,USA,Chile,Marítimo,Electrónica,2025-04-09,2025-04-25,2905.56,4925.84,0,A tiempo
+6085,Perú,México,Aéreo,Maquinaria,2025-09-05,2025-09-24,2146.91,3429.15,5,Retrasado
+6086,Colombia,Perú,Aéreo,Electrónica,2025-02-27,2025-03-20,14639.77,32356.55,4,Retrasado
+6087,China,Colombia,Aéreo,Textil,2025-06-22,2025-07-30,8534.14,10485.76,1,A tiempo
+6088,China,México,Terrestre,Textil,2025-02-12,2025-03-04,3270.32,4058.8,5,Retrasado
+6089,China,Colombia,Aéreo,Textil,2025-04-16,2025-05-14,14610.25,13592.5,9,Retrasado
+6090,China,Colombia,Terrestre,Maquinaria,2025-05-12,2025-06-09,12181.3,17143.33,0,A tiempo
+6091,España,Colombia,Aéreo,Textil,2025-08-22,2025-09-19,8867.22,7830.45,0,A tiempo
+6092,Perú,Colombia,Terrestre,Químicos,2025-06-17,2025-06-20,13123.55,13984.92,3,A tiempo
+6093,China,Ecuador,Aéreo,Maquinaria,2025-04-14,2025-05-18,9681.4,20630.27,0,A tiempo
+6094,Brasil,Ecuador,Aéreo,Químicos,2025-09-07,2025-09-13,9054.98,21375.31,0,A tiempo
+6095,USA,Ecuador,Terrestre,Electrónica,2025-06-22,2025-07-14,9994.3,17270.65,4,Retrasado
+6096,Brasil,Colombia,Terrestre,Alimentos,2025-09-22,2025-09-30,1306.59,2391.88,3,A tiempo
+6097,México,Chile,Marítimo,Alimentos,2025-05-21,2025-05-25,16490.35,14423.76,3,A tiempo
+6098,USA,Perú,Aéreo,Químicos,2025-09-22,2025-09-26,19076.83,33516.01,1,A tiempo
+6099,Brasil,Ecuador,Aéreo,Textil,2025-07-27,2025-08-20,4405.02,7634.28,0,A tiempo
+6100,Colombia,Colombia,Marítimo,Maquinaria,2025-04-01,2025-04-16,10101.14,21668.84,0,A tiempo
+6101,China,Ecuador,Terrestre,Químicos,2025-07-18,2025-08-26,8626.89,13351.71,5,Retrasado
+6102,España,Perú,Terrestre,Maquinaria,2025-02-19,2025-03-10,9945.22,24457.93,4,Retrasado
+6103,Perú,Ecuador,Marítimo,Alimentos,2025-01-04,2025-01-31,4308.49,2763.14,0,A tiempo
+6104,Perú,Colombia,Aéreo,Alimentos,2025-09-10,2025-09-25,15985.55,32456.1,4,Retrasado
+6105,Colombia,Ecuador,Marítimo,Alimentos,2025-03-06,2025-04-13,19356.99,41886.77,7,Retrasado
+6106,España,Chile,Terrestre,Textil,2025-08-05,2025-08-15,14757.01,22278.7,0,A tiempo
+6107,Perú,Colombia,Terrestre,Químicos,2025-06-20,2025-07-18,1462.58,3130.83,7,Retrasado
+6108,USA,Chile,Terrestre,Textil,2025-06-09,2025-06-28,18417.19,22099.61,6,Retrasado
+6109,Perú,México,Marítimo,Alimentos,2025-04-25,2025-04-28,1737.38,4225.5,2,A tiempo
+6110,USA,México,Aéreo,Alimentos,2025-07-10,2025-08-18,8625.17,8747.14,0,A tiempo
+6111,Alemania,México,Terrestre,Electrónica,2025-12-21,2026-01-21,10773.68,15655.51,2,A tiempo
+6112,Perú,Perú,Aéreo,Químicos,2025-10-07,2025-10-09,8778.13,19353.85,5,Retrasado
+6113,China,Ecuador,Terrestre,Alimentos,2025-06-01,2025-06-21,12970.37,7688.4,0,A tiempo
+6114,China,Ecuador,Terrestre,Químicos,2025-11-15,2025-12-21,18349.96,42576.82,14,Retrasado
+6115,Perú,Colombia,Terrestre,Alimentos,2025-07-12,2025-07-18,10049.07,14145.55,5,Retrasado
+6116,USA,Chile,Terrestre,Electrónica,2025-12-26,2026-01-21,14666.61,35719.57,0,A tiempo
+6117,Alemania,Chile,Aéreo,Químicos,2025-12-21,2025-12-23,16896.92,22500.07,0,A tiempo
+6118,Perú,Colombia,Marítimo,Maquinaria,2025-01-11,2025-01-26,15160.84,12739.56,0,A tiempo
+6119,España,México,Terrestre,Químicos,2025-03-05,2025-03-06,17584.96,18105.98,0,A tiempo
+6120,España,Chile,Aéreo,Químicos,2025-11-03,2025-12-04,12511.68,21745.51,16,Retrasado
+6121,China,Ecuador,Terrestre,Electrónica,2025-05-13,2025-05-16,11605.04,7098.68,5,Retrasado
+6122,China,Perú,Marítimo,Textil,2025-04-01,2025-04-02,7624.91,4973.62,0,A tiempo
+6123,Colombia,Chile,Terrestre,Maquinaria,2025-07-15,2025-08-17,3081.17,3668.8,0,A tiempo
+6124,Brasil,Ecuador,Terrestre,Alimentos,2025-09-03,2025-10-04,5842.35,3618.92,2,A tiempo
+6125,Alemania,México,Marítimo,Químicos,2025-04-26,2025-05-12,14757.45,23812.23,3,A tiempo
+6126,Perú,Perú,Terrestre,Alimentos,2025-11-10,2025-11-26,18219.65,30131.18,4,Retrasado
+6127,México,México,Aéreo,Electrónica,2025-07-02,2025-07-23,3106.66,6719.69,5,Retrasado
+6128,USA,Ecuador,Terrestre,Electrónica,2025-03-26,2025-04-28,4887.9,11011.63,9,Retrasado
+6129,Brasil,México,Marítimo,Maquinaria,2025-09-04,2025-10-04,14471.33,31316.25,0,A tiempo
+6130,Colombia,Colombia,Marítimo,Alimentos,2025-06-21,2025-07-11,17131.38,13586.12,0,A tiempo
+6131,Perú,Ecuador,Terrestre,Electrónica,2025-02-25,2025-02-28,12497.77,13970.25,0,A tiempo
+6132,USA,México,Terrestre,Químicos,2025-01-27,2025-02-14,9552.06,11213.09,0,A tiempo
+6133,USA,Colombia,Terrestre,Alimentos,2025-08-09,2025-08-18,14693.05,18771.16,0,A tiempo
+6134,Colombia,Colombia,Terrestre,Textil,2025-01-24,2025-03-01,15148.64,29177.54,0,A tiempo
+6135,México,México,Marítimo,Maquinaria,2025-12-22,2026-01-21,9250.41,10542.33,0,A tiempo
+6136,México,México,Marítimo,Textil,2025-03-16,2025-04-09,4291.17,4398.19,0,A tiempo
+6137,China,Colombia,Aéreo,Alimentos,2025-12-27,2026-02-01,13246.12,15803.01,0,A tiempo
+6138,México,Ecuador,Terrestre,Electrónica,2025-04-28,2025-06-05,17755.16,38544.58,0,A tiempo
+6139,España,Ecuador,Marítimo,Textil,2025-12-05,2025-12-27,6060.67,14739.68,3,A tiempo
+6140,China,México,Terrestre,Maquinaria,2025-08-21,2025-09-05,8460.61,17127.83,1,A tiempo
+6141,Brasil,Perú,Aéreo,Maquinaria,2025-02-05,2025-03-05,9551.16,16324.41,5,Retrasado
+6142,México,Chile,Marítimo,Textil,2025-04-04,2025-05-10,13407.4,15014.4,0,A tiempo
+6143,Alemania,México,Marítimo,Alimentos,2025-05-24,2025-06-30,17438.86,39130.43,1,A tiempo
+6144,China,Colombia,Aéreo,Electrónica,2025-06-03,2025-06-10,14486.59,19967.37,12,Retrasado
+6145,Alemania,Perú,Aéreo,Alimentos,2025-07-25,2025-08-02,5092.14,5870.26,0,A tiempo
+6146,USA,Perú,Aéreo,Alimentos,2025-08-06,2025-08-09,17380.96,31569.43,3,A tiempo
+6147,Colombia,Chile,Terrestre,Maquinaria,2025-04-24,2025-05-09,11239.06,18758.76,6,Retrasado
+6148,Brasil,Chile,Terrestre,Textil,2025-02-02,2025-03-03,4157.4,7472.25,1,A tiempo
+6149,Perú,Perú,Aéreo,Maquinaria,2025-09-10,2025-10-02,18768.1,18036.6,0,A tiempo
+6150,Perú,Ecuador,Aéreo,Químicos,2025-06-18,2025-07-12,4353.04,10438.73,4,Retrasado
+6151,China,Colombia,Marítimo,Textil,2025-09-07,2025-09-10,12212.2,13824.93,0,A tiempo
+6152,España,México,Aéreo,Textil,2025-07-27,2025-08-04,13905.35,16753.13,0,A tiempo
+6153,Brasil,Perú,Aéreo,Químicos,2025-01-03,2025-02-05,19552.08,21040.02,0,A tiempo
+6154,Alemania,Chile,Marítimo,Electrónica,2025-10-20,2025-11-19,8074.15,11810.19,0,A tiempo
+6155,México,Chile,Aéreo,Textil,2025-10-08,2025-11-04,17592.55,34834.53,6,Retrasado
+6156,Perú,Chile,Marítimo,Químicos,2025-05-28,2025-07-04,16679.73,13798.22,15,Retrasado
+6157,México,Perú,Aéreo,Electrónica,2025-10-13,2025-11-08,3606.61,5387.98,0,A tiempo
+6158,Colombia,Chile,Aéreo,Químicos,2025-01-07,2025-01-12,11388.7,18695.25,0,A tiempo
+6159,España,Ecuador,Marítimo,Textil,2025-06-05,2025-07-03,3398.05,5555.97,0,A tiempo
+6160,Alemania,Ecuador,Terrestre,Electrónica,2025-06-05,2025-06-15,7254.88,5162.38,0,A tiempo
+6161,Perú,Colombia,Aéreo,Maquinaria,2025-03-13,2025-04-03,12036.69,7126.69,4,Retrasado
+6162,Brasil,Colombia,Terrestre,Textil,2025-03-22,2025-04-23,6768.24,5675.21,5,Retrasado
+6163,España,Ecuador,Marítimo,Electrónica,2025-01-18,2025-02-04,9053.56,8424.12,0,A tiempo
+6164,Perú,Perú,Aéreo,Textil,2025-08-29,2025-09-10,17343.0,15955.82,0,A tiempo
+6165,USA,Colombia,Marítimo,Textil,2025-12-16,2025-12-17,17468.05,26804.57,8,Retrasado
+6166,México,Colombia,Marítimo,Electrónica,2025-12-05,2026-01-08,1150.51,1752.16,0,A tiempo
+6167,USA,Perú,Terrestre,Maquinaria,2025-03-15,2025-03-24,3450.44,4156.19,0,A tiempo
+6168,Alemania,Colombia,Aéreo,Alimentos,2025-07-17,2025-08-24,6710.3,12959.06,12,Retrasado
+6169,Colombia,México,Aéreo,Textil,2025-10-17,2025-11-09,6492.57,10190.78,0,A tiempo
+6170,Perú,México,Terrestre,Químicos,2025-05-01,2025-05-02,12055.0,13274.54,6,Retrasado
+6171,Alemania,Ecuador,Aéreo,Químicos,2025-03-05,2025-03-29,18425.03,31553.24,0,A tiempo
+6172,Perú,México,Aéreo,Textil,2025-01-08,2025-02-12,8292.46,7384.69,1,A tiempo
+6173,China,México,Terrestre,Electrónica,2025-09-27,2025-10-05,1801.11,3980.11,4,Retrasado
+6174,Colombia,Perú,Aéreo,Textil,2025-04-09,2025-04-13,15649.07,8150.26,4,Retrasado
+6175,Colombia,Colombia,Terrestre,Químicos,2025-03-10,2025-04-17,2188.84,1617.12,3,A tiempo
+6176,Alemania,Ecuador,Terrestre,Maquinaria,2025-11-25,2025-12-13,773.05,1131.7,2,A tiempo
+6177,Colombia,Chile,Marítimo,Textil,2025-10-29,2025-12-07,19742.3,18268.18,0,A tiempo
+6178,USA,Chile,Terrestre,Maquinaria,2025-10-18,2025-11-09,1218.96,2957.73,13,Retrasado
+6179,Brasil,Perú,Terrestre,Alimentos,2025-01-21,2025-02-11,8744.13,5527.9,0,A tiempo
+6180,USA,Ecuador,Marítimo,Electrónica,2025-12-05,2025-12-15,16969.1,40831.31,0,A tiempo
+6181,Colombia,México,Marítimo,Alimentos,2025-06-14,2025-07-13,3136.37,5608.77,7,Retrasado
+6182,Brasil,México,Terrestre,Electrónica,2025-04-04,2025-04-21,2327.8,3720.38,9,Retrasado
+6183,China,Chile,Terrestre,Alimentos,2025-09-25,2025-10-06,13810.18,17899.53,0,A tiempo
+6184,Alemania,México,Marítimo,Textil,2025-01-14,2025-01-30,4691.31,8223.05,2,A tiempo
+6185,México,Ecuador,Marítimo,Maquinaria,2025-02-23,2025-04-03,19097.42,47183.97,0,A tiempo
+6186,Perú,México,Marítimo,Textil,2025-06-04,2025-06-16,19130.64,28524.33,0,A tiempo
+6187,Colombia,Chile,Marítimo,Textil,2025-12-21,2026-01-05,13230.03,25185.65,0,A tiempo
+6188,Alemania,México,Terrestre,Maquinaria,2025-01-13,2025-01-29,1121.99,1102.1,0,A tiempo
+6189,México,Ecuador,Aéreo,Químicos,2025-01-23,2025-02-22,8139.01,17300.17,5,Retrasado
+6190,Brasil,Ecuador,Aéreo,Electrónica,2025-02-12,2025-02-22,2040.78,3478.23,1,A tiempo
+6191,Alemania,México,Aéreo,Electrónica,2025-04-19,2025-04-20,16035.51,9037.92,1,A tiempo
+6192,Perú,Colombia,Terrestre,Químicos,2025-04-06,2025-04-07,10752.49,13114.49,0,A tiempo
+6193,España,Perú,Terrestre,Textil,2025-03-04,2025-04-07,18546.48,28054.79,0,A tiempo
+6194,México,Ecuador,Marítimo,Textil,2025-09-15,2025-10-03,18155.02,24674.31,0,A tiempo
+6195,Colombia,Ecuador,Terrestre,Alimentos,2025-09-23,2025-10-21,6554.79,3792.71,1,A tiempo
+6196,Colombia,Chile,Aéreo,Textil,2025-05-23,2025-06-14,12180.28,14371.22,0,A tiempo
+6197,USA,Colombia,Terrestre,Maquinaria,2025-07-16,2025-07-18,10589.57,6217.24,0,A tiempo
+6198,España,Chile,Marítimo,Electrónica,2025-07-31,2025-08-04,6202.63,6613.27,2,A tiempo
+6199,Alemania,Chile,Marítimo,Químicos,2025-10-28,2025-11-17,6223.48,14454.64,4,Retrasado
